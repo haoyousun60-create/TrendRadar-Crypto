@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-03-28T22:05:17.674398+08:00",
-  "total_titles_processed": 729,
+  "generated_at": "2026-03-29T00:00:17.897797+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# 交易所 交易所 交易平台",
+      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
       "match_count": 1,
       "titles": [
         {
-          "title": "沪深交易所“轻资产、高研发投入”认定标准出炉，支持主板公司再融资加大研发投入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32843944",
-          "source": "澎湃新闻",
+          "title": "黄金逼近熊市之际，抄底大军来了！",
+          "url": "https://wallstreetcn.com/articles/3768650",
+          "source": "华尔街见闻",
           "ranks": [
-            18
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 19时05分]"
+          "appearance_count": 1,
+          "time_info": "00时00分"
         }
       ]
     }
