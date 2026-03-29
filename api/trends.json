@@ -1,38 +1,22 @@
 {
-  "generated_at": "2026-03-29T22:05:52.791172+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2026-03-30T00:04:55.037162+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "黄金逼近熊市之际，抄底大军来了！",
-          "url": "https://wallstreetcn.com/articles/3768650",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 19时57分]"
-        },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
           "url": "https://wallstreetcn.com/articles/3768662",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时06分 ~ 22时05分]"
+          "appearance_count": 1,
+          "time_info": "00时04分"
         }
       ]
     }
