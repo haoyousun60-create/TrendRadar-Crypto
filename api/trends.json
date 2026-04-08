@@ -1,122 +1,22 @@
 {
-  "generated_at": "2026-04-08T23:01:59.420019+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-04-09T02:57:55.572770+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "4月7日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-          "url": "https://flash.jin10.com/detail/20260408132523257800",
+          "title": "上海黄金交易所黄金T+D 4月8日（周三）晚盘收盘下跌1.52%报1040.4元/克；<br/>上海黄金交易所白银T+D 4月8日（周三）晚盘收盘下跌2.02%报18340.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260409023114801800",
           "source": "金十数据",
           "ranks": [
-            17
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "4月7日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-          "url": "https://flash.jin10.com/detail/20260408132521337800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "4月7日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-          "url": "https://flash.jin10.com/detail/20260408132519379800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "斯里兰卡证券交易所综合指数上涨4.2%。",
-          "url": "https://flash.jin10.com/detail/20260408132318474800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 加密货币 加密货币 比特币 以太坊 Binance 币安 OKX 火币 虚拟货币 数字货币 blockchain crypto",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "数字货币市场跌超2%",
-          "url": "https://wallstreetcn.com/livenews/3083640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "泰国监管机构将允许首只本地加密货币ETF于三季度开始交易。",
-          "url": "https://wallstreetcn.com/livenews/3084002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "比特币一度上涨5%，至72,841美元/枚，为3月18日以来最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3084410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国际油价7日涨跌不一",
-          "url": "https://flash.jin10.com/detail/20260408043848623800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "黄金涨跌逻辑变了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%B6%A8%E8%B7%8C%E9%80%BB%E8%BE%91%E5%8F%98%E4%BA%86%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
+          "time_info": "02时57分"
         }
       ]
     }
