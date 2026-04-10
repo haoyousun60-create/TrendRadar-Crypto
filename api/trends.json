@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T01:39:20.161986+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-04-11T03:59:59.014396+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 03时59分]"
         },
         {
           "title": "上交所：拟将主板风险警示股票价格的涨跌幅限制比例由5%调整为10%",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 03时59分]"
         }
       ]
     },
@@ -40,11 +40,12 @@
           "url": "https://wallstreetcn.com/livenews/3086035",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 03时59分]"
         }
       ]
     }
