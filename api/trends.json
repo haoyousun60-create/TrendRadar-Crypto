@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T15:56:51.456988+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2026-04-11T16:43:05.576064+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[01时39分 ~ 08时01分]"
         },
         {
+          "title": "【早报】证监会：增设创业板第四套上市标准；主板ST股涨跌幅拟调整为10%",
+          "url": "https://www.cls.cn/detail/2341141",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 16时43分]"
+        },
+        {
           "title": "上交所：拟将主板风险警示股票价格的涨跌幅限制比例由5%调整为10%",
           "url": "https://www.cls.cn/detail/2340548",
           "source": "财联社热门",
@@ -28,18 +40,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时39分 ~ 05时59分]"
-        },
-        {
-          "title": "【早报】证监会：增设创业板第四套上市标准；主板ST股涨跌幅拟调整为10%",
-          "url": "https://www.cls.cn/detail/2341141",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 15时56分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
@@ -64,11 +64,12 @@
           "source": "金十数据",
           "ranks": [
             14,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时56分]"
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 16时43分]"
         },
         {
           "title": "4月10日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
@@ -76,11 +77,12 @@
           "source": "金十数据",
           "ranks": [
             15,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时56分]"
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 16时43分]"
         },
         {
           "title": "4月10日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
@@ -88,11 +90,12 @@
           "source": "金十数据",
           "ranks": [
             16,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时56分]"
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 16时43分]"
         }
       ]
     },
