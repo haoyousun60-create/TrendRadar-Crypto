@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T17:39:21.152836+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-04-11T18:33:20.001728+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
@@ -53,7 +53,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         }
@@ -69,11 +69,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时01分 ~ 17时39分]"
+          "appearance_count": 8,
+          "time_info": "[08时01分 ~ 18时33分]"
         },
         {
           "title": "稳定币牌照公布，牛市旗手闻声大涨，券商股还有哪些利好？",
