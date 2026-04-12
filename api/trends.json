@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T21:00:04.240109+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-04-12T22:03:21.913467+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             12,
             9,
             6,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时44分 ~ 21时00分]"
+          "appearance_count": 7,
+          "time_info": "[17时44分 ~ 22时03分]"
         },
         {
           "title": "70年代的黄金牛市：如何开始、如何结束",
@@ -71,7 +72,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
         }
@@ -90,8 +91,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时38分 ~ 21时00分]"
+          "appearance_count": 6,
+          "time_info": "[18时38分 ~ 22时03分]"
         }
       ]
     }
