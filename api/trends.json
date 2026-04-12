@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-04-12T07:33:23.277468+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2026-04-12T10:29:42.475684+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】证监会：增设创业板第四套上市标准；主板ST股涨跌幅拟调整为10%",
+          "url": "https://www.cls.cn/detail/2341141",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 10时29分]"
+        },
+        {
+          "title": "70年代的黄金牛市：如何开始、如何结束",
+          "url": "https://wallstreetcn.com/articles/3769744",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        }
+      ]
+    },
     {
       "keyword_group": "# 交易所 交易所 交易平台",
       "match_count": 1,
@@ -18,23 +47,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 01时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】证监会：增设创业板第四套上市标准；主板ST股涨跌幅拟调整为10%",
-          "url": "https://www.cls.cn/detail/2341141",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 07时33分]"
         }
       ]
     }
