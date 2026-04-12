@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-04-12T22:03:21.913467+08:00",
-  "total_titles_processed": 1385,
+  "generated_at": "2026-04-12T23:35:50.727191+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
       "match_count": 3,
       "titles": [
-        {
-          "title": "【早报】证监会：增设创业板第四套上市标准；主板ST股涨跌幅拟调整为10%",
-          "url": "https://www.cls.cn/detail/2341141",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 13时24分]"
-        },
         {
           "title": "周末要闻汇总：中央台办受权发布十项促进两岸交流合作的政策措施；主板ST股涨跌幅拟调整为10%",
           "url": "https://www.cls.cn/detail/2341464",
@@ -32,8 +19,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时44分 ~ 22时03分]"
+          "appearance_count": 8,
+          "time_info": "[17时44分 ~ 23时35分]"
+        },
+        {
+          "title": "【早报】证监会：增设创业板第四套上市标准；主板ST股涨跌幅拟调整为10%",
+          "url": "https://www.cls.cn/detail/2341141",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 13时24分]"
         },
         {
           "title": "70年代的黄金牛市：如何开始、如何结束",
@@ -88,11 +88,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时38分 ~ 22时03分]"
+          "appearance_count": 7,
+          "time_info": "[18时38分 ~ 23时35分]"
         }
       ]
     }
