@@ -1,83 +1,8 @@
 {
-  "generated_at": "2026-04-12T23:35:50.727191+08:00",
-  "total_titles_processed": 1490,
+  "generated_at": "2026-04-13T00:38:41.683020+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周末要闻汇总：中央台办受权发布十项促进两岸交流合作的政策措施；主板ST股涨跌幅拟调整为10%",
-          "url": "https://www.cls.cn/detail/2341464",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时44分 ~ 23时35分]"
-        },
-        {
-          "title": "【早报】证监会：增设创业板第四套上市标准；主板ST股涨跌幅拟调整为10%",
-          "url": "https://www.cls.cn/detail/2341141",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 13时24分]"
-        },
-        {
-          "title": "70年代的黄金牛市：如何开始、如何结束",
-          "url": "https://wallstreetcn.com/articles/3769744",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时29分 ~ 15时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "市场消息：土耳其伊斯坦布尔证券交易所将卖空禁令延长至4月24日。",
-          "url": "https://flash.jin10.com/detail/20260411234446100800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
-        },
-        {
-          "title": "迅策：与深圳数据交易所签署战略合作协议",
-          "url": "https://flash.jin10.com/detail/20260412192830403800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时00分"
-        }
-      ]
-    },
     {
       "keyword_group": "# 加密货币 加密货币 比特币 以太坊 Binance 币安 OKX 火币 虚拟货币 数字货币 blockchain crypto",
       "match_count": 1,
@@ -87,13 +12,28 @@
           "url": "https://www.cls.cn/detail/2341419",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11,
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时38分 ~ 23时35分]"
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周末要闻汇总：中央台办受权发布十项促进两岸交流合作的政策措施；主板ST股涨跌幅拟调整为10%",
+          "url": "https://www.cls.cn/detail/2341464",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
         }
       ]
     }
