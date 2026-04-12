@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T17:44:36.313181+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-04-12T18:38:30.680870+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,29 @@
           "url": "https://www.cls.cn/detail/2341464",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 18时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 加密货币 加密货币 比特币 以太坊 Binance 币安 OKX 火币 虚拟货币 数字货币 blockchain crypto",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美伊局势再陷“迷雾”？万斯宣布“无果返美”，比特币跌破72000关口！",
+          "url": "https://www.cls.cn/detail/2341419",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时44分"
+          "time_info": "18时38分"
         }
       ]
     },
