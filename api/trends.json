@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T13:41:37.963917+08:00",
-  "total_titles_processed": 921,
+  "generated_at": "2026-04-13T16:02:43.396186+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时38分 ~ 07时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 4月13日（周一）收盘下跌0.55%报1042.0元/克；<br/>上海黄金交易所白银T+D 4月13日（周一）收盘下跌1.0%报18376.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260413153127088800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         }
       ]
     },
