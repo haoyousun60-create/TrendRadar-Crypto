@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T06:42:43.524742+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-04-14T07:42:25.585091+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时00分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 07时42分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.31%，暂报2504.25点，北京时间22:59涨至2524.74点。 MarketVectorTM数字资产100中盘指数涨0.46%，报2746.06点，23:01也曾涨至2773.61点。 MarketVector数字资产100指数涨1.85%，报14415.93点，逼近22:59达到达的14439.05点。 目前，Solana涨1.62%，狗狗币涨1.04%，XRP涨0.65%。 比特币涨1.66%，暂报72334美元；以太坊涨1.14%，暂报2227.30美元。",
