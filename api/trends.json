@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T17:17:48.591673+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2026-04-14T19:03:03.230868+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 17时17分]"
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 19时03分]"
         },
         {
           "title": "量子末日倒计时？比特币恐被破解",
@@ -51,7 +51,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         }
@@ -79,7 +79,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         }
@@ -96,7 +96,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
