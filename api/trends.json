@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T19:03:03.230868+08:00",
-  "total_titles_processed": 1481,
+  "generated_at": "2026-04-14T21:41:09.137201+08:00",
+  "total_titles_processed": 1640,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时23分 ~ 19时03分]"
+          "appearance_count": 8,
+          "time_info": "[13时23分 ~ 21时41分]"
         },
         {
           "title": "量子末日倒计时？比特币恐被破解",
