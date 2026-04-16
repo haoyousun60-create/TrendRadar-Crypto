@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T21:28:24.304970+08:00",
-  "total_titles_processed": 1588,
+  "generated_at": "2026-04-16T23:26:04.213481+08:00",
+  "total_titles_processed": 1723,
   "failed_sources": [],
   "trends": [
     {
@@ -88,7 +88,7 @@
     },
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "周三（4月15日），美股行业ETF涨跌各异，网络股指数ETF收涨2.16%，科技行业ETF涨1.60%，可选消费ETF、全球科技股指数ETF至少涨1.28%。 区域银行ETF则跌0.17%，能源业ETF跌0.34%，医疗业ETF跌0.71%，公用事业ETF跌0.97%。",
@@ -101,6 +101,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时52分]"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约涨跌互现，甲醇、瓶片涨超2%，塑料、聚丙烯、低硫燃料油（LU）、纸浆、棕榈油、菜油涨超1%。跌幅方面，20号胶、烧碱、玻璃跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260416230042606800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         }
       ]
     }
