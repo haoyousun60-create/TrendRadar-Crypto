@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T13:31:43.326881+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-04-16T16:16:43.548595+08:00",
+  "total_titles_processed": 1173,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "4月15日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -25,9 +25,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "金十图示：2026年04月16日（周四）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20260416160148213800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "4月15日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
@@ -36,9 +47,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "伦敦金属交易所(LME)：铝库存减少2100吨，锡库存减少5吨，铅库存减少350吨，铜库存减少925吨，镍库存增加120吨，锌库存减少1725吨。",
+          "url": "https://flash.jin10.com/detail/20260416160105816800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "上海黄金交易所4月16日（周四）交易行情",
+          "url": "https://flash.jin10.com/detail/20260416160031097800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "上海黄金交易所黄金T+D 4月15日（周三）晚盘收盘下跌0.42%报1053.6元/克；<br/>上海黄金交易所白银T+D 4月15日（周三）晚盘收盘下跌0.21%报19634.0元/千克。",
