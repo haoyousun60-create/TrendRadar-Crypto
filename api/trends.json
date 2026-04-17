@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T13:27:42.949327+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-04-17T15:45:33.529179+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周四（4月16日），美股行业ETF涨跌各异，能源业ETF、科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨1.47%，银行业ETF收跌0.38%，医疗业ETF跌0.79%，生物科技指数ETF跌1.06%，全球航空业ETF跌1.44%。",
@@ -27,9 +27,20 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 15时45分]"
+        },
+        {
+          "title": "国际现货黄金并未跌出“牛市序列”，三个因素决定降息能否在秋季启动！| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260417152604212800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "15时45分"
         },
         {
           "title": "A股开盘：三大指数涨跌不一",
@@ -41,6 +52,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 4月17日（周五）收盘下跌0.5%报1052.7元/克；<br/>上海黄金交易所白银T+D 4月17日（周五）收盘下跌1.36%报19598.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260417153034438800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 4月16日（周四）晚盘收盘下跌0.58%报1051.8元/克；<br/>上海黄金交易所白银T+D 4月16日（周四）晚盘收盘下跌1.8%报19512.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260417023041337800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         }
       ]
     },
@@ -58,23 +97,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 4月16日（周四）晚盘收盘下跌0.58%报1051.8元/克；<br/>上海黄金交易所白银T+D 4月16日（周四）晚盘收盘下跌1.8%报19512.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260417023041337800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
         }
       ]
     }
