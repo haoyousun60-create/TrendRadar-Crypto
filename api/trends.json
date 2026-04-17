@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T18:55:56.837677+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2026-04-17T19:52:51.863354+08:00",
+  "total_titles_processed": 1534,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 18时55分]"
+          "appearance_count": 6,
+          "time_info": "[13时27分 ~ 19时52分]"
         },
         {
           "title": "周四（4月16日），美股行业ETF涨跌各异，能源业ETF、科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨1.47%，银行业ETF收跌0.38%，医疗业ETF跌0.79%，生物科技指数ETF跌1.06%，全球航空业ETF跌1.44%。",
