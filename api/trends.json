@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T13:06:41.121032+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-04-18T15:06:40.748811+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 4月17日（周五）晚盘收盘上涨1.03%报1063.28元/克；<br/>上海黄金交易所白银T+D 4月17日（周五）晚盘收盘上涨3.76%报20278.0元/千克。",
@@ -40,6 +40,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "4月17日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260418132831114800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "4月17日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260418132829633800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "4月17日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260418132828070800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         }
       ]
     }
