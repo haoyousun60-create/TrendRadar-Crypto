@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T06:37:54.198053+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-04-22T07:35:04.506200+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 06时37分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时35分]"
         },
         {
           "title": "美联储主席提名人沃什：美联储无权发行数字货币，那将是一个糟糕的政策选择。 美联储的确不应该采用央行数字货币（CBDC）。",
