@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T07:42:18.658291+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-04-21T10:31:37.231516+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "据伦敦证券交易所集团（LSEG）船舶追踪数据显示，一艘液化天然气（LNG）运输船已抵达位于美国得克萨斯州的“金通道”（Golden Pass）设施，准备装载并出口首批超低温液化天然气。",
@@ -51,6 +51,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "印尼证券交易所首席执行官：很高兴我们提出的四项提案已被MSCI所认可。",
+          "url": "https://flash.jin10.com/detail/20260421095811902800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "印尼证券交易所首席执行官：将继续与全球投资者沟通，以获取加强资本市场的建议。",
+          "url": "https://flash.jin10.com/detail/20260421095749125800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     },
