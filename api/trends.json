@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T06:38:53.809199+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-04-25T07:39:17.280544+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时39分]"
         },
         {
           "title": "国际油价24日涨跌不一",
@@ -30,8 +30,20 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时52分 ~ 07时39分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌互现 英特尔涨逾23%",
+          "url": "https://flash.jin10.com/detail/20260425040149158800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[03时52分 ~ 06时38分]"
+          "time_info": "[04时46分 ~ 07时39分]"
         },
         {
           "title": "周五（4月24日），美股行业ETF涨跌各异，半导体ETF收涨5.11%，全球科技股指数ETF、科技行业ETF涨超2.8%，网络股指数ETF涨超1.2%，生物科技指数ETF、银行业ETF、医疗业ETF至少收跌1.41%，区域银行ETF跌1.59%。",
@@ -54,18 +66,6 @@
             9,
             22,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时38分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌互现 英特尔涨逾23%",
-          "url": "https://flash.jin10.com/detail/20260425040149158800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            15
           ],
           "is_new": false,
           "appearance_count": 3,
