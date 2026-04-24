@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-04-24T18:20:49.200515+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-04-24T19:56:54.014534+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "北交所发布《北京证券交易所交易规则》，修订后的规则自2026年7月6日起施行。",
+          "url": "https://wallstreetcn.com/livenews/3094051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
+          "title": "北交所发布《北京证券交易所交易规则》，修订后的规则自2026年7月6日起施行。",
+          "url": "https://flash.jin10.com/detail/20260424194431980800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
         {
           "title": "4月23日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
           "url": "https://flash.jin10.com/detail/20260424132428178800",
@@ -86,7 +108,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         }
