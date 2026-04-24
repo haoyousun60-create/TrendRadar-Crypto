@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T13:35:26.390324+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2026-04-24T16:02:36.054268+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "4月23日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         },
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 4月24日（周五）收盘下跌0.61%报1033.3元/克；<br/>上海黄金交易所白银T+D 4月24日（周五）收盘下跌3.18%报18481.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260424153050524800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         }
       ]
     },
