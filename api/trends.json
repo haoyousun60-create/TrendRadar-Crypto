@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T05:46:58.496521+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-04-25T06:38:53.809199+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时38分]"
         },
         {
           "title": "国际油价24日涨跌不一",
@@ -30,8 +30,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时52分 ~ 05时46分]"
+          "appearance_count": 4,
+          "time_info": "[03时52分 ~ 06时38分]"
         },
         {
           "title": "周五（4月24日），美股行业ETF涨跌各异，半导体ETF收涨5.11%，全球科技股指数ETF、科技行业ETF涨超2.8%，网络股指数ETF涨超1.2%，生物科技指数ETF、银行业ETF、医疗业ETF至少收跌1.41%，区域银行ETF跌1.59%。",
@@ -39,11 +39,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时46分]"
+          "appearance_count": 3,
+          "time_info": "[04时46分 ~ 06时38分]"
         },
         {
           "title": "标普500指数的11个板块涨跌各异，信息技术/科技板块收涨2.46%，可选消费板块涨1.36%，电信板块涨0.88%，能源板块则收跌0.24%，金融板块跌0.64%，工业板块跌0.89%，保健板块跌1.37%。",
@@ -51,11 +52,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时46分]"
+          "appearance_count": 3,
+          "time_info": "[04时46分 ~ 06时38分]"
         },
         {
           "title": "美股收盘：三大股指涨跌互现 英特尔涨逾23%",
@@ -66,8 +68,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时46分]"
+          "appearance_count": 3,
+          "time_info": "[04时46分 ~ 06时38分]"
         }
       ]
     },
