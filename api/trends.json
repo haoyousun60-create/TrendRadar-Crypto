@@ -1,8 +1,69 @@
 {
-  "generated_at": "2026-04-25T13:11:43.740596+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2026-04-25T15:14:47.276813+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 4月24日（周五）晚盘收盘上涨0.58%报1040.12元/克；<br/>上海黄金交易所白银T+D 4月24日（周五）晚盘收盘上涨1.0%报18855.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260425023337315800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "三大交易所新规重磅出炉",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E5%A4%A7%E4%BA%A4%E6%98%93%E6%89%80%E6%96%B0%E8%A7%84%E9%87%8D%E7%A3%85%E5%87%BA%E7%82%89",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "4月24日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260425133252044800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "4月24日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260425133239542800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "4月24日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260425133232791800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        }
+      ]
+    },
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
       "match_count": 5,
@@ -111,34 +172,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 4月24日（周五）晚盘收盘上涨0.58%报1040.12元/克；<br/>上海黄金交易所白银T+D 4月24日（周五）晚盘收盘上涨1.0%报18855.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260425023337315800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "三大交易所新规重磅出炉",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E5%A4%A7%E4%BA%A4%E6%98%93%E6%89%80%E6%96%B0%E8%A7%84%E9%87%8D%E7%A3%85%E5%87%BA%E7%82%89",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
         }
       ]
     }
