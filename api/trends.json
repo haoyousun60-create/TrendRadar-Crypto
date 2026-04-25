@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T15:14:47.276813+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-04-25T16:52:33.477280+08:00",
+  "total_titles_processed": 1062,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         }
@@ -78,8 +78,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 13时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 16时52分]"
         },
         {
           "title": "国际油价24日涨跌不一",
