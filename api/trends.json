@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T01:21:41.139497+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-28T03:20:02.279701+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,23 @@
       ]
     },
     {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 4月27日（周一）晚盘收盘下跌0.47%报1032.5元/克；<br/>上海黄金交易所白银T+D 4月27日（周一）晚盘收盘下跌0.49%报18658.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260428024422344800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
       "match_count": 1,
       "titles": [
@@ -29,11 +46,12 @@
           "url": "https://www.cls.cn/detail/2356822",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 03时20分]"
         }
       ]
     }
