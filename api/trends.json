@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T19:04:08.210452+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-04-27T21:51:05.217169+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
@@ -55,7 +55,7 @@
     },
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "战争没打完，欧美“军工股牛市”已经完了",
@@ -68,6 +68,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时41分 ~ 07时38分]"
+        },
+        {
+          "title": "【焦点复盘】三大指数收盘涨跌互现，全市场超百股涨逾10%，国产算力概念活跃依旧",
+          "url": "https://www.cls.cn/detail/2356822",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
         }
       ]
     }
