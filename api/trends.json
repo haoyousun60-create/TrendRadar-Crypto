@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T10:47:25.208319+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-04-28T13:59:47.456146+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,34 @@
       ]
     },
     {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 4月27日（周一）晚盘收盘下跌0.47%报1032.5元/克；<br/>上海黄金交易所白银T+D 4月27日（周一）晚盘收盘下跌0.49%报18658.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260428024422344800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "4月27日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260428132317203800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# 加密货币 加密货币 比特币 以太坊 Binance 币安 OKX 火币 虚拟货币 数字货币 blockchain crypto",
       "match_count": 1,
       "titles": [
@@ -60,23 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 4月27日（周一）晚盘收盘下跌0.47%报1032.5元/克；<br/>上海黄金交易所白银T+D 4月27日（周一）晚盘收盘下跌0.49%报18658.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260428024422344800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
         }
       ]
     }
