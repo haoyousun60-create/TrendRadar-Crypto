@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-28T13:59:47.456146+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-04-28T16:36:49.544173+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 4月27日（周一）晚盘收盘下跌0.47%报1032.5元/克；<br/>上海黄金交易所白银T+D 4月27日（周一）晚盘收盘下跌0.49%报18658.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260428024422344800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "伦敦金属交易所(LME)：铅库存减少500吨，锌库存减少2800吨，镍库存持平，锡库存减少50吨，铝库存减少2425吨，铜库存增加5275吨。",
+          "url": "https://wallstreetcn.com/livenews/3095567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "4月27日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260428132317203800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        }
+      ]
+    },
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
       "match_count": 3,
@@ -43,34 +82,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 4月27日（周一）晚盘收盘下跌0.47%报1032.5元/克；<br/>上海黄金交易所白银T+D 4月27日（周一）晚盘收盘下跌0.49%报18658.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260428024422344800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "4月27日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-          "url": "https://flash.jin10.com/detail/20260428132317203800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
         }
       ]
     },
