@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T03:24:32.951788+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-04-30T05:04:15.761828+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中金称 A 股「公募机构的券商持仓」比例已近历史低点，对此你怎么看，今年的牛市预期是否还在？",
+          "url": "https://www.zhihu.com/question/2031862308759188674",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时03分 ~ 05时04分]"
         }
       ]
     }
