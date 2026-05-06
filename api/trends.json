@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T00:27:34.751865+08:00",
-  "total_titles_processed": 304,
+  "generated_at": "2026-05-07T02:16:41.405990+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3099489",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时16分]"
         }
       ]
     }
