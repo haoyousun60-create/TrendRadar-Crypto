@@ -1,44 +1,22 @@
 {
-  "generated_at": "2026-05-06T22:07:50.766825+08:00",
-  "total_titles_processed": 1357,
+  "generated_at": "2026-05-07T00:27:34.751865+08:00",
+  "total_titles_processed": 304,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 3,
+      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
+      "match_count": 1,
       "titles": [
         {
-          "title": "5月5日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-          "url": "https://flash.jin10.com/detail/20260506132623788800",
-          "source": "金十数据",
+          "title": "欧洲半导体概念股涨跌各异，阿斯麦控股收涨6.18%，ASM国际涨3.32%，英飞凌则收跌2.10%，德国爱思强跌2.80%，Soitec跌7%。",
+          "url": "https://wallstreetcn.com/livenews/3099489",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "5月5日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-          "url": "https://flash.jin10.com/detail/20260506132619558800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "5月5日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-          "url": "https://flash.jin10.com/detail/20260506132616893800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
+          "time_info": "00时27分"
         }
       ]
     }
