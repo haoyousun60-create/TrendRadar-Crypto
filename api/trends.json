@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T00:50:17.995576+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-05-08T02:27:00.865982+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据路透社报道，3月和4月的石油押注交易涉及原油、汽油和柴油期货，并横跨多个交易所和合约。",
+          "url": "https://flash.jin10.com/detail/20260508014446159800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时27分"
         }
       ]
     },
@@ -29,11 +46,12 @@
           "url": "https://wallstreetcn.com/livenews/3100123",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 02时27分]"
         }
       ]
     }
