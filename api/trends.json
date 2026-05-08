@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T19:16:55.101696+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-05-08T21:45:08.360355+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
@@ -92,6 +92,18 @@
           "time_info": "[00时50分 ~ 02时27分]"
         },
         {
+          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
+          "url": "https://wallstreetcn.com/articles/3771771",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 21时45分]"
+        },
+        {
           "title": "分析人士：美伊和平协议若落地 黄金白银“超级牛市”有望重启",
           "url": "https://www.cls.cn/detail/2365388",
           "source": "财联社热门",
@@ -103,17 +115,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时57分 ~ 10时48分]"
-        },
-        {
-          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
-          "url": "https://wallstreetcn.com/articles/3771771",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 19时16分]"
         },
         {
           "title": "传奇投资者：AI牛市“还能再持续一两年”",
