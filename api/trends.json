@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-05-09T10:43:23.319929+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-05-09T13:48:36.321963+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "5月8日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260509132349573800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "5月8日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260509132339561800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "5月8日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260509132333186800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
         {
           "title": "上海黄金交易所黄金T+D 5月8日（周五）晚盘收盘下跌0.07%报1035.63元/克；<br/>上海黄金交易所白银T+D 5月8日（周五）晚盘收盘上涨0.14%报19845.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260509023027636800",
@@ -25,7 +58,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         }
