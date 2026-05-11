@@ -1,106 +1,33 @@
 {
-  "generated_at": "2026-05-11T21:49:20.482861+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2026-05-12T00:33:21.036898+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美银Hartnett：材料板块将是下一个“牛市新宠”",
-          "url": "https://wallstreetcn.com/articles/3771917",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 10时58分]"
-        },
-        {
-          "title": "美伊局势生变，美股盘初涨跌互现，英特尔、美光、高通股价创新高，现货白银涨6%逼近85美元，布油再回100美元上方",
+          "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
           "url": "https://wallstreetcn.com/articles/3771942",
           "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "美股三大股指涨跌不一，英特尔、美光和高通均创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3101700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "A股进入牛市下半场",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%BF%9B%E5%85%A5%E7%89%9B%E5%B8%82%E4%B8%8B%E5%8D%8A%E5%9C%BA%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时38分"
+          "time_info": "00时33分"
         },
         {
-          "title": "AI正把韩国推成全球最疯狂牛市",
-          "url": "https://www.toutiao.com/trending/7638535831472311827/",
-          "source": "今日头条",
+          "title": "周一（5月11日），欧股“十一罗汉”涨跌各异，LVMH集团收跌4.38%，欧莱雅跌2.59%，阿斯利康、罗氏制药则至多涨1.30%，诺和诺德涨3.34%。",
+          "url": "https://wallstreetcn.com/livenews/3101767",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 加密货币 加密货币 比特币 以太坊 Binance 币安 OKX 火币 虚拟货币 数字货币 blockchain crypto",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.75%，暂报3056.02点，逼近2月4日顶部3104.13点、1月31日顶部3352.34点，1月11曾拉升至6268.44点。 MarketVectorTM数字资产100中盘指数涨3.40%，报3325.00点，逼近1月29日顶部3518.94点，2025年11月11日顶部在5063.12点。 MarketVector数字资产100指数涨1.20%，报16100.89点。 目前，Solana涨1.44%，狗狗币跌0.21%，XRP涨3.30%。 比特币涨0.59%，暂报81338.26美元，最近三天迄今累涨1.84%，整体持续走高；以太坊涨0.87%，暂报2349.68美元，最近三天迄今累涨2.66%。",
-          "url": "https://wallstreetcn.com/livenews/3101148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 05时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
-          "url": "https://wallstreetcn.com/livenews/3101113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时52分]"
+          "time_info": "00时33分"
         }
       ]
     }
