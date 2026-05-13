@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T12:43:45.519205+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2026-05-13T15:49:55.094643+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
@@ -59,8 +59,19 @@
     },
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 5月13日（周三）收盘下跌0.35%报1029.8元/克；<br/>上海黄金交易所白银T+D 5月13日（周三）收盘上涨1.48%报21280.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260513153025994800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
         {
           "title": "印尼证券交易所主席表示，明晟公司（MSCI）的公告降低了印尼金融市场的不确定性。",
           "url": "https://flash.jin10.com/detail/20260513120301035800",
@@ -68,7 +79,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
