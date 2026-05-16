@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T22:56:09.674861+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2026-05-16T23:58:21.395713+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
@@ -102,8 +102,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时13分 ~ 22时56分]"
+          "appearance_count": 8,
+          "time_info": "[18时13分 ~ 23时58分]"
         },
         {
           "title": "上期所修订风控管理办法，取消极端情况下20%涨跌停板固定限制",
@@ -112,22 +112,24 @@
           "ranks": [
             19,
             18,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时49分 ~ 22时56分]"
+          "appearance_count": 6,
+          "time_info": "[19时49分 ~ 23时58分]"
         },
         {
           "title": "日股一线观察：与1999年高度相似，投资者被迫参与可能是“一代人一遇”的牛市",
           "url": "https://wallstreetcn.com/articles/3772428",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时55分 ~ 22时56分]"
+          "appearance_count": 3,
+          "time_info": "[22时55分 ~ 23时58分]"
         },
         {
           "title": "如何看待黄金4个月走完一个涨跌周期",
