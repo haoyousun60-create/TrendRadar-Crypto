@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T18:14:13.488593+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2026-05-16T19:50:07.324127+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
@@ -90,18 +90,41 @@
     },
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
           "url": "https://wallstreetcn.com/articles/3772409",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 19时50分]"
+        },
+        {
+          "title": "上期所修订风控管理办法，取消极端情况下20%涨跌停板固定限制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33184976",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时13分 ~ 18时14分]"
+          "time_info": "[19时49分 ~ 19时50分]"
+        },
+        {
+          "title": "如何看待黄金4个月走完一个涨跌周期",
+          "url": "https://www.toutiao.com/trending/7640408911958249001/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
         },
         {
           "title": "内盘期货夜市涨跌各异，烧碱收跌超2.3%，焦炭跌超1.2%，低硫燃油涨约3.7%",
