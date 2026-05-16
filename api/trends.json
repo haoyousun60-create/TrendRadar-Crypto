@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T21:19:50.749088+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-05-16T22:56:09.674861+08:00",
+  "total_titles_processed": 1410,
   "failed_sources": [],
   "trends": [
     {
@@ -90,7 +90,7 @@
     },
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -98,11 +98,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时13分 ~ 21时19分]"
+          "appearance_count": 7,
+          "time_info": "[18时13分 ~ 22时56分]"
         },
         {
           "title": "上期所修订风控管理办法，取消极端情况下20%涨跌停板固定限制",
@@ -110,11 +111,23 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时49分 ~ 21时19分]"
+          "appearance_count": 5,
+          "time_info": "[19时49分 ~ 22时56分]"
+        },
+        {
+          "title": "日股一线观察：与1999年高度相似，投资者被迫参与可能是“一代人一遇”的牛市",
+          "url": "https://wallstreetcn.com/articles/3772428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
         },
         {
           "title": "如何看待黄金4个月走完一个涨跌周期",
