@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T05:48:14.005661+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-05-17T06:43:50.815363+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "日股一线观察：与1999年高度相似，投资者被迫参与可能是“一代人一遇”的牛市",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "上期所修订风控管理办法，取消极端情况下20%涨跌停板固定限制",
@@ -35,11 +35,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时43分]"
         }
       ]
     }
