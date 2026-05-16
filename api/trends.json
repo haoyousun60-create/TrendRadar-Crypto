@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T19:50:07.324127+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-05-16T21:19:50.749088+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
@@ -101,19 +101,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 19时50分]"
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 21时19分]"
         },
         {
           "title": "上期所修订风控管理办法，取消极端情况下20%涨跌停板固定限制",
           "url": "https://m.thepaper.cn/newsDetail_forward_33184976",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 19时50分]"
+          "appearance_count": 3,
+          "time_info": "[19时49分 ~ 21时19分]"
         },
         {
           "title": "如何看待黄金4个月走完一个涨跌周期",
