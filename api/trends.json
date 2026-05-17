@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T10:55:37.929750+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-05-17T14:23:33.654591+08:00",
+  "total_titles_processed": 758,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             8,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 10时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 14时23分]"
         },
         {
           "title": "上期所修订风控管理办法，取消极端情况下20%涨跌停板固定限制",
