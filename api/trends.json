@@ -1,39 +1,11 @@
 {
-  "generated_at": "2026-05-19T02:51:36.016806+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-05-19T04:24:19.320892+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 5月18日（周一）晚盘收盘下跌0.06%报996.01元/克；<br/>上海黄金交易所白银T+D 5月18日（周一）晚盘收盘上涨1.9%报18760.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260519023124498800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时51分"
-        },
-        {
-          "title": "伦敦金属交易所（LME）确认：将把铅和锌直接合约（Outright Contract ）在所有交易平台上的单日价格涨跌幅限制，从15%下调至12%，新规将于6月8日起生效。",
-          "url": "https://wallstreetcn.com/livenews/3105536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
@@ -43,8 +15,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 04时24分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 理想汽车跌近10%",
+          "url": "https://flash.jin10.com/detail/20260519040054557800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "内盘期货夜市涨跌各异，豆二涨1.5%，低硫燃油跌约1.1%",
@@ -56,6 +39,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 5月18日（周一）晚盘收盘下跌0.06%报996.01元/克；<br/>上海黄金交易所白银T+D 5月18日（周一）晚盘收盘上涨1.9%报18760.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260519023124498800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "伦敦金属交易所（LME）确认：将把铅和锌直接合约（Outright Contract ）在所有交易平台上的单日价格涨跌幅限制，从15%下调至12%，新规将于6月8日起生效。",
+          "url": "https://wallstreetcn.com/livenews/3105536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         }
       ]
     }
