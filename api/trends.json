@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T06:02:10.128475+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-05-19T08:05:16.343099+08:00",
+  "total_titles_processed": 652,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3772508",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 08时05分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 理想汽车跌近10%",
@@ -47,7 +48,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
