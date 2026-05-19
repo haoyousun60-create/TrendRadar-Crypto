@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T08:05:16.343099+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2026-05-19T13:01:16.937261+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 08时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 13时01分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 理想汽车跌近10%",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "离岸人民币同业拆息利率涨跌互现，隔夜拆息创一周新高",
+          "url": "https://flash.jin10.com/detail/20260519115954234800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "美股行业ETF涨跌各异，能源业ETF涨约1.9%，半导体ETF跌超1.8%",
