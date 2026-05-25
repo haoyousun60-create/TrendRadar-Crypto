@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-25T13:19:33.810478+08:00",
-  "total_titles_processed": 768,
+  "generated_at": "2026-05-25T18:03:10.707273+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "单日涨跌可达±60%！韩国将上市三星电子及SK海力士杠杆ETF",
+          "url": "https://www.cls.cn/detail/2380595",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 18时03分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
