@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T00:26:33.200082+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-26T02:25:36.194077+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时25分]"
         },
         {
           "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
@@ -26,8 +26,25 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 加密货币 加密货币 比特币 以太坊 Binance 币安 OKX 火币 虚拟货币 数字货币 blockchain crypto",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.83%，暂报2819.51点，整体持续走高。 MarketVectorTM数字资产100中盘指数涨3.32%，报3109.24点。 MarketVector数字资产100指数涨1.37%，报15322.20点。 目前，Solana涨1.09%，狗狗币涨1.46%，XRP涨1.05%。 比特币涨1.33%，暂报77637.47美元；以太坊涨1.74%，暂报2133.16美元。",
+          "url": "https://wallstreetcn.com/livenews/3108982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "02时25分"
         }
       ]
     }
