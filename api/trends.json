@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-05-25T18:03:10.707273+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-05-25T21:59:11.332371+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "单日涨跌可达±60%！韩国将上市三星电子及SK海力士杠杆ETF",
           "url": "https://www.cls.cn/detail/2380595",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 21时59分]"
+        },
+        {
+          "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
+          "url": "https://wallstreetcn.com/articles/3773034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时02分 ~ 18时03分]"
+          "time_info": "[21时58分 ~ 21时59分]"
+        },
+        {
+          "title": "夜盘开盘，国内期货主力合约涨跌不一，焦煤触及涨停，焦炭涨超8%，氧化铝、沪银、纯碱涨超1%。跌幅方面，低硫燃料油（LU）跌超3%，燃料油、原油跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260525210004101800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         }
       ]
     }
