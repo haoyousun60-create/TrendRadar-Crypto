@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T00:42:41.274997+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-05-27T03:21:49.803535+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 03时21分]"
         },
         {
           "title": "内盘期货夜市涨跌各异，燃油收涨1.6%，焦煤跌约1.5%，焦炭跌2%",
@@ -28,6 +28,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 5月26日（周二）晚盘收盘下跌0.97%报984.5元/克；<br/>上海黄金交易所白银T+D 5月26日（周二）晚盘收盘下跌0.6%报18554.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260527023332740800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         }
       ]
     }
