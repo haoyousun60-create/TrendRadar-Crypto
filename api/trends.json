@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T21:27:13.554758+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2026-05-30T23:06:05.709503+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
@@ -78,6 +78,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
+          "url": "https://wallstreetcn.com/articles/3773496",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时05分 ~ 23时06分]"
         }
       ]
     }
