@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-05-30T10:54:58.560134+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-05-30T14:24:02.554582+08:00",
+  "total_titles_processed": 790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "5月29日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260530133954598800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
+          "title": "5月29日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260530133944979800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
         {
           "title": "洲际交易所：截至5月26日当周，布伦特原油投机者将净多头头寸减少56,568份合约，降至278,720份。",
           "url": "https://flash.jin10.com/detail/20260530013938022800",
@@ -17,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "5月29日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260530133942404800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至5月26日当周，四大纽约商业交易所（NYMEX）和洲际交易所（ICE）市场的天然气投机者净空头头寸增加39,397份合约，达到41,422份。",
