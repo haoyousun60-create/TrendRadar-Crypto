@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T02:39:21.181053+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-03T05:47:47.813191+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 05时47分]"
         },
         {
           "title": "数字货币市场走低，比特币跌5.6%一度失守6.7万美元",
