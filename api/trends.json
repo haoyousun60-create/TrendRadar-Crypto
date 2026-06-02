@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-02T13:30:26.750623+08:00",
-  "total_titles_processed": 746,
+  "generated_at": "2026-06-02T18:21:32.129611+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 加密货币 加密货币 比特币 以太坊 Binance 币安 OKX 火币 虚拟货币 数字货币 blockchain crypto",
       "match_count": 5,
       "titles": [
+        {
+          "title": "打破\"只买不卖\"惯例！MSTR首度出售比特币，套现250万美元",
+          "url": "https://wallstreetcn.com/articles/3773584",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 18时21分]"
+        },
         {
           "title": "为什么号称绝对安全的加密货币，频繁被美国政府没收？",
           "url": "https://www.zhihu.com/question/2044381381808100105",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时37分 ~ 08时13分]"
-        },
-        {
-          "title": "打破\"只买不卖\"惯例！MSTR首度出售比特币，套现250万美元",
-          "url": "https://wallstreetcn.com/articles/3773584",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
         },
         {
           "title": "告别“永不卖出”策略！Strategy披露出售比特币 卖出32枚套现250万美元",
@@ -65,6 +66,34 @@
       ]
     },
     {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "港交所与阿斯塔纳国际金融中心及阿斯塔纳国际交易所签署合作备忘录",
+          "url": "https://flash.jin10.com/detail/20260602125744740800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时30分"
+        },
+        {
+          "title": "据知情人士透露，德国军用天线制造商Smag据称正考虑在法兰克福证券交易所进行首次公开募股（IPO）。",
+          "url": "https://flash.jin10.com/detail/20260602174408934800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
       "match_count": 2,
       "titles": [
@@ -91,23 +120,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "港交所与阿斯塔纳国际金融中心及阿斯塔纳国际交易所签署合作备忘录",
-          "url": "https://flash.jin10.com/detail/20260602125744740800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时30分"
         }
       ]
     }
