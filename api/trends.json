@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T06:10:55.993299+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-06-02T08:13:37.296760+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 06时10分]"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 08时13分]"
         },
         {
           "title": "美国伊利诺伊州将对网络数字广告、社交媒体、预测市场、加密货币征税，从而支撑当地的2027财年预算。",
@@ -25,7 +25,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         }
@@ -52,11 +52,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 06时10分]"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 08时13分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，地产ETF、黄金ETF至少跌1.4%，布油基金涨超3.7%",
@@ -65,7 +66,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         }
