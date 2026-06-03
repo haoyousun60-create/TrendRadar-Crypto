@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T07:45:14.472739+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-06-03T11:57:25.052522+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3773650",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 11时57分]"
         },
         {
           "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
