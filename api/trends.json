@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T05:03:53.695478+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-06-07T07:03:21.148374+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 05时03分]"
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 07时03分]"
         },
         {
           "title": "深夜巨震！黄金跌穿4330美元、纳指重挫3%、比特币失守6万美元关口",
@@ -39,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 05时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 07时03分]"
         }
       ]
     },
@@ -53,11 +54,12 @@
           "url": "https://wallstreetcn.com/articles/3774007",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 05时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 07时03分]"
         }
       ]
     }
