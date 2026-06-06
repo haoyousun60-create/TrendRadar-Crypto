@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T17:25:25.995301+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2026-06-06T19:25:49.004512+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时07分 ~ 17时25分]"
+          "appearance_count": 7,
+          "time_info": "[07时07分 ~ 19时25分]"
         },
         {
           "title": "深夜巨震！黄金跌穿4330美元、纳指重挫3%、比特币失守6万美元关口",
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 17时25分]"
+          "appearance_count": 5,
+          "time_info": "[10时57分 ~ 19时25分]"
         },
         {
           "title": "数字货币市场持续下挫，小盘、中盘指数在非农日跌超9%",
@@ -68,8 +69,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 17时25分]"
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 19时25分]"
         },
         {
           "title": "周五（6月5日），美股行业ETF涨跌各异，半导体ETF收盘重挫9.22%，全球科技股指数ETF跌7.32%，科技行业ETF跌6.66%，网络股指数ETF跌3.24%，公用事业ETF涨0.93%，日常消费品ETF涨1.71%。",
