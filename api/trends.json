@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T11:44:06.922290+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2026-06-07T15:54:53.062936+08:00",
+  "total_titles_processed": 828,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 11时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 15时54分]"
         },
         {
           "title": "数字货币市场继续走低，比特币已跌穿百日均线和200周均线、正测试50月均线",
