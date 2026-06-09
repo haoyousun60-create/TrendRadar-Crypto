@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T13:04:48.971454+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2026-06-09T17:41:19.722576+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3774155",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 17时41分]"
         },
         {
           "title": "什么信号？美股70%熊市信号被触发，美银建议获利了结！",
           "url": "https://www.cls.cn/detail/2394381",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 17时41分]"
         },
         {
           "title": "美股三大指数涨跌不一 芯片股反弹",
