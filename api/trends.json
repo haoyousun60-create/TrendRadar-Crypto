@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T06:02:01.285367+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-06-11T07:43:48.114659+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -42,11 +42,12 @@
           "ranks": [
             2,
             1,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 07时43分]"
         },
         {
           "title": "周三（6月10日），美股行业ETF涨跌各异，全球航空业ETF收跌4.59%，半导体ETF跌3.40%，全球科技股指数ETF、科技行业ETF、可选消费ETF、生物科技指数ETF、网络股指数ETF至多跌2.29%，银行业ETF涨0.28%，能源业ETF涨1.50%。",
@@ -55,7 +56,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
