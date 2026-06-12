@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T18:10:33.788924+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-06-12T22:10:59.084871+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
@@ -66,7 +66,7 @@
     },
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "黄金进入熊市",
@@ -81,6 +81,17 @@
           "time_info": "[00时55分 ~ 03时36分]"
         },
         {
+          "title": "SpaceX交易倒计时，美股指涨跌互现，太空概念股盘初转跌，布油跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3774481",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "资深做空投资者、Chanos & Co.创始人查诺斯：牛市会给前景赋予溢价。熊市会给现实打折。现在我们显然处在前一种市场当中。",
           "url": "https://wallstreetcn.com/livenews/3118305",
           "source": "华尔街见闻-快讯",
@@ -90,6 +101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "美股三大指数开盘涨跌不一，道指涨0.59%，标普500指数涨0.2%，纳指接近平盘。美股太空概念股多数上涨。Rocket Lab涨超3%，回声星通信涨超2%。Adobe跌8%，创下2018年2月以来的盘中最低水平，公司Q2营收超预期，业绩指引上调，但CFO离职引担忧。",
+          "url": "https://wallstreetcn.com/livenews/3118928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         }
       ]
     }
