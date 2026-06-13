@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T08:20:25.764631+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2026-06-13T13:21:04.463069+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3119104",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时20分 ~ 13时21分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至6月9日当周，投机者将芝加哥期货交易所（CBOT）美国国债期货净空头头寸增加3,452手至163,305手。投机者将CBOT美国2年期国债期货净空头头寸削减130,350手至1,219,838手，将美国5年期国债期货净空头头寸削减49,056手至1,320,162手，将美国10年期国债期货净空头头寸增加34,232手至863,807手，将美国超长期国债期货净空头头寸增加31,021手至318,731手。",
