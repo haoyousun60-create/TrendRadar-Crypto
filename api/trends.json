@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-06-14T23:53:58.286021+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2026-06-15T01:20:34.843812+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "阿曼马斯喀特证券交易所：交易时段将延长至下午4点。",
-          "url": "https://flash.jin10.com/detail/20260614181245353800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "阿曼马斯喀特证券交易所：技术问题已解决，交易时段交易已恢复。",
-          "url": "https://flash.jin10.com/detail/20260614181229776800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "阿曼马斯喀特证券交易所因技术问题暂时暂停交易。",
-          "url": "https://flash.jin10.com/detail/20260614181002325800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
