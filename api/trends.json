@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T08:09:40.190529+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-06-20T13:13:07.977404+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
@@ -58,6 +58,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时56分 ~ 05时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404523",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 13时13分]"
         }
       ]
     }
