@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T00:15:44.681502+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-27T02:51:42.458347+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 02时51分]"
         },
         {
           "title": "内盘期货夜市涨跌各异",
@@ -39,6 +39,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "洲际交易所（ICE）：柴油投机者在截至6月23日的一周内将净多头头寸减少294手合约至60,516手。布伦特原油投机者将净多头头寸减少23,790手合约至90,338手。",
+          "url": "https://flash.jin10.com/detail/20260627015324100800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         }
       ]
     }
