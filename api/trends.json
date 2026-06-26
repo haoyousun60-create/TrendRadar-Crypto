@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T18:50:54.864026+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-06-26T21:11:02.315416+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时51分 ~ 18时50分]"
+          "appearance_count": 4,
+          "time_info": "[15时51分 ~ 21时11分]"
         },
         {
           "title": "A股这轮牛市你赚钱了吗",
@@ -128,7 +129,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
