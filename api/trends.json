@@ -1,11 +1,84 @@
 {
-  "generated_at": "2026-06-30T17:32:55.598074+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-06-30T20:07:58.917127+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "AI牛市的悬头之剑：不只是韩国，美股杠杆同样触目惊心",
+          "url": "https://wallstreetcn.com/articles/3775756",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 13时03分]"
+        },
+        {
+          "title": "黄金跌不停“大势已去”？高盛力挺：今年牛市还没完，剑指4900美元！",
+          "url": "https://www.cls.cn/detail/2412329",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "又一顶级投行上调标普500目标价，盈利驱动助力牛市续航",
+          "url": "https://flash.jin10.com/detail/20260630171552784800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "上期所：调整黄金等期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3126730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "黄金“假崩盘”还是“真牛市中继”",
+          "url": "https://www.toutiao.com/trending/7657047152505409078/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "上期能源：调整国际铜期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3126723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "墨西哥证券交易所：交易暂停的情况已恢复。此次交易暂停并非由于影响交易引擎运营商MONET的技术问题。",
@@ -47,60 +120,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "AI牛市的悬头之剑：不只是韩国，美股杠杆同样触目惊心",
-          "url": "https://wallstreetcn.com/articles/3775756",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时13分 ~ 13时03分]"
-        },
-        {
-          "title": "黄金跌不停“大势已去”？高盛力挺：今年牛市还没完，剑指4900美元！",
-          "url": "https://www.cls.cn/detail/2412329",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
         {
-          "title": "又一顶级投行上调标普500目标价，盈利驱动助力牛市续航",
-          "url": "https://flash.jin10.com/detail/20260630171552784800",
+          "title": "宝马集团：原优先股转换为普通股的交易所转换程序将于2026年7月1日至7月3日期间进行。",
+          "url": "https://flash.jin10.com/detail/20260630191708716800",
           "source": "金十数据",
           "ranks": [
-            16
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "黄金“假崩盘”还是“真牛市中继”",
-          "url": "https://www.toutiao.com/trending/7657047152505409078/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
+          "time_info": "20时07分"
         }
       ]
     },
