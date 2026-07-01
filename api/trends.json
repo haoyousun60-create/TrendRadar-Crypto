@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T16:12:11.992865+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-07-01T20:07:00.027591+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 16时12分]"
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 20时06分]"
         },
         {
           "title": "市场消息：美国总统特朗普提交2025年度财务披露报告，披露其通过加密货币获得数亿美元收入。",
@@ -76,7 +76,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -87,7 +87,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -98,7 +98,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         }
@@ -115,7 +115,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         }
