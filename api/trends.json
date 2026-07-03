@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-03T17:57:33.413030+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-07-03T20:10:24.840679+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 7月3日（周五）晚盘盘初上涨2.61%报910.29元/克；<br/>上海黄金交易所白银T+D 7月3日（周五）晚盘盘初上涨4.68%报15260.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260703200146357800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
         {
           "title": "上海黄金交易所黄金T+D 7月2日（周四）晚盘收盘上涨1.23%报898.0元/克；<br/>上海黄金交易所白银T+D 7月2日（周四）晚盘收盘上涨1.59%报14810.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260703023104405800",
@@ -47,7 +58,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
