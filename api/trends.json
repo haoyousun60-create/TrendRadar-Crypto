@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T12:14:42.956461+08:00",
-  "total_titles_processed": 891,
+  "generated_at": "2026-07-08T15:28:31.784449+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
@@ -29,6 +29,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时13分 ~ 03时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月08日（周三）富时中国A50指数成分股今日收盘行情一览：银行、煤炭开采板块普涨，半导体、通信设备板块涨跌不一",
+          "url": "https://flash.jin10.com/detail/20260708150232290800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     }
