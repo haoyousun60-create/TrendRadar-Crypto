@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T18:24:15.600268+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-07-09T21:49:22.001770+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "韩国股市跌入技术性熊市，监管紧急开会：半导体板块过度集中加剧市场波动",
@@ -30,8 +30,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时43分 ~ 18时24分]"
+          "appearance_count": 4,
+          "time_info": "[14时43分 ~ 21时49分]"
+        },
+        {
+          "title": "美光正式陷入熊市，大摩：这可能是周期得以最终延续的必要调整",
+          "url": "https://wallstreetcn.com/livenews/3131079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 金龙指数涨2%",
