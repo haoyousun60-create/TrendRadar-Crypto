@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T21:15:35.812659+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2026-07-11T22:52:14.138535+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
@@ -76,11 +76,12 @@
             9,
             8,
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 21时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 22时52分]"
         },
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
