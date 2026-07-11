@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-07-11T07:08:31.244169+08:00",
-  "total_titles_processed": 555,
-  "failed_sources": [],
+  "generated_at": "2026-07-11T10:31:32.184175+08:00",
+  "total_titles_processed": 720,
+  "failed_sources": [
+    "douyin"
+  ],
   "trends": [
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
@@ -28,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 07时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 10时31分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，日元做多收涨超0.4%",
