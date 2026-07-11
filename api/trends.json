@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-07-11T10:31:32.184175+08:00",
-  "total_titles_processed": 720,
-  "failed_sources": [
-    "douyin"
-  ],
+  "generated_at": "2026-07-11T13:40:09.741732+08:00",
+  "total_titles_processed": 883,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
       "match_count": 3,
       "titles": [
+        {
+          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2423243",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 13时40分]"
+        },
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
           "url": "https://wallstreetcn.com/articles/3776623",
@@ -20,18 +30,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时55分 ~ 06时01分]"
-        },
-        {
-          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2423243",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 10时31分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，日元做多收涨超0.4%",
