@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T18:07:39.469314+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-07-14T20:11:51.130378+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伦敦金属交易所(LME)：铜库存减少1675吨，锡库存减少115吨，镍库存持平，锌库存减少825吨，铅库存增加80700吨，铝库存减少1625吨。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月14日（周二）晚盘盘初下跌0.97%报879.6元/克；<br/>上海黄金交易所白银T+D 7月14日（周二）晚盘盘初上涨0.78%报14170.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260714200153149800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月14日（周二）收盘下跌0.97%报879.6元/克；<br/>上海黄金交易所白银T+D 7月14日（周二）收盘下跌0.25%报14180.0元/千克。",
