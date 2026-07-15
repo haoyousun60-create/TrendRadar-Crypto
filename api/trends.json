@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T18:48:25.722794+08:00",
-  "total_titles_processed": 1416,
+  "generated_at": "2026-07-15T20:15:05.771320+08:00",
+  "total_titles_processed": 1548,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "7月14日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月15日（周三）晚盘盘初上涨0.04%报877.6元/克；<br/>上海黄金交易所白银T+D 7月15日（周三）晚盘盘初上涨0.79%报14172.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260715200100960800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月15日（周三）收盘上涨0.04%报877.6元/克；<br/>上海黄金交易所白银T+D 7月15日（周三）收盘上涨0.79%报14172.0元/千克。",
