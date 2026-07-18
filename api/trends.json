@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T17:23:43.563817+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-07-18T19:02:57.942565+08:00",
+  "total_titles_processed": 1268,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时48分 ~ 17时23分]"
+          "appearance_count": 8,
+          "time_info": "[06时48分 ~ 19时02分]"
         },
         {
           "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时52分 ~ 17时23分]"
+          "appearance_count": 7,
+          "time_info": "[07时52分 ~ 19时02分]"
         },
         {
           "title": "Kimi冲击美科技股，纳指再跌1%，芯片股跌入熊市，美伊冲突升级油价大涨",
@@ -48,11 +48,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时46分 ~ 17时23分]"
+          "appearance_count": 4,
+          "time_info": "[15时46分 ~ 19时02分]"
         },
         {
           "title": "美股芯片股，距熊市仅一步之遥",
