@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T10:32:45.429592+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2026-07-19T13:51:22.168025+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2430055",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 10时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 13时51分]"
         },
         {
           "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
