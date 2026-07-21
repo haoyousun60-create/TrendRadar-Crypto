@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T18:24:09.112661+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-07-21T20:24:34.783935+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "韩国交易所启动Sidecar机制，暂停KOSPI程序化买盘。",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -72,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月21日（周二）晚盘盘初上涨1.61%报886.35元/克；<br/>上海黄金交易所白银T+D 7月21日（周二）晚盘盘初上涨4.55%报14348.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260721200033677800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月20日（周一）晚盘收盘上涨0.11%报873.3元/克；<br/>上海黄金交易所白银T+D 7月20日（周一）晚盘收盘上涨0.29%报13763.0元/千克。",
@@ -123,8 +134,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时01分 ~ 18时24分]"
+          "appearance_count": 11,
+          "time_info": "[02时01分 ~ 20时24分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
