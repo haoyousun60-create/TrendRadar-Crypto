@@ -1,191 +1,22 @@
 {
-  "generated_at": "2026-07-21T23:03:57.350462+08:00",
-  "total_titles_processed": 1473,
+  "generated_at": "2026-07-22T01:18:56.354260+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 10,
+      "keyword_group": "# 加密货币 加密货币 比特币 以太坊 Binance 币安 OKX 火币 虚拟货币 数字货币 blockchain crypto",
+      "match_count": 1,
       "titles": [
         {
-          "title": "韩国交易所启动Sidecar机制，暂停KOSPI程序化买盘。",
-          "url": "https://wallstreetcn.com/livenews/3137300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "新加坡交易所推出Grab、Sea及SpaceX存托凭证，拓展美股投资渠道",
-          "url": "https://wallstreetcn.com/livenews/3137524",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "伦敦证券交易所计划明年开设夜间交易场所。（英国《金融时报》）",
-          "url": "https://wallstreetcn.com/livenews/3137127",
+          "title": "数字货币市场走高，比特币涨向6.7万美元",
+          "url": "https://wallstreetcn.com/livenews/3137695",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "韩股剧烈震荡，韩国交易所将评估高频交易的影响",
-          "url": "https://flash.jin10.com/detail/20260721044746834800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "伦敦证券交易所拟于推出24小时交易服务 以夺回散户市场",
-          "url": "https://flash.jin10.com/detail/20260721070909950800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "据英国金融时报：伦敦证券交易所计划明年推出全天候交易。",
-          "url": "https://flash.jin10.com/detail/20260721070324462800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 7月21日（周二）晚盘盘初上涨1.61%报886.35元/克；<br/>上海黄金交易所白银T+D 7月21日（周二）晚盘盘初上涨4.55%报14348.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260721200033677800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 7月20日（周一）晚盘收盘上涨0.11%报873.3元/克；<br/>上海黄金交易所白银T+D 7月20日（周一）晚盘收盘上涨0.29%报13763.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260721023018422800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "韩国交易所对韩国KOSPI指数启动程序式暂停交易。",
-          "url": "https://flash.jin10.com/detail/20260721114456717800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "香港交易所将允许初创企业以保密形式提交上市申请，将允许下调初创企业市值门槛。（南华早报）",
-          "url": "https://wallstreetcn.com/livenews/3137262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "半导体指数跌入熊市，高盛悄然转向三大替代投资主题",
-          "url": "https://wallstreetcn.com/articles/3777464",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时01分 ~ 20时24分]"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异",
-          "url": "https://wallstreetcn.com/livenews/3137079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约涨跌不一，碳酸锂跌超4%，低硫燃料油（LU）跌超3%，液化石油气（LPG）、鸡蛋、对二甲苯跌超2%，沥青跌近2%。涨幅方面，沪银涨超5%，钯涨超3%，铂、国际铜涨超2%，沪金涨近2%。",
-          "url": "https://flash.jin10.com/detail/20260721150044001800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨跌互现，碳酸锂跌超4%，低硫燃料油（LU）跌超3%，液化石油气（LPG）、对二甲苯、焦炭、焦煤、鸡蛋跌超2%，PTA跌近2%。涨幅方面，沪银涨超3%，国际铜、豆粕、苹果、菜粕、钯、沪金涨超1%。",
-          "url": "https://flash.jin10.com/detail/20260721113046302800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 加密货币 加密货币 比特币 以太坊 Binance 币安 OKX 火币 虚拟货币 数字货币 blockchain crypto",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.57%，暂报2154.58点。 MarketVectorTM数字资产100中盘指数涨1.31%，报2572.59点。 MarketVector数字资产100指数涨1.40%，报12976.54点。 目前，Solana涨2.52%，狗狗币涨1.40%，XRP涨1.67%。 比特币涨1.57%，暂报65389.40美元；以太坊涨2.09%，暂报1897.80美元。",
-          "url": "https://wallstreetcn.com/livenews/3137031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "01时18分"
         }
       ]
     }
