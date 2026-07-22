@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T21:49:01.887229+08:00",
-  "total_titles_processed": 1481,
+  "generated_at": "2026-07-22T23:40:56.124730+08:00",
+  "total_titles_processed": 1603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "伦敦金属交易所(LME)：铅库存减少425吨，锡库存减少140吨，锌库存减少850吨，铜库存减少6750吨，镍库存减少1512吨，铝库存减少1500吨。",
@@ -72,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "受俄主要粮食出口港新罗西斯克港据报实施夜间禁航影响，欧洲泛欧交易所9月小麦期货大涨4.5%",
+          "url": "https://flash.jin10.com/detail/20260722230456535800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "韩国交易所收紧ETF关键词调整规则，基金变更成分股需提前沟通",
