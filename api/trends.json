@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T21:21:50.774104+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2026-07-25T23:02:31.740039+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "伦敦证券交易所集团-理柏（LSGE Lipper）正评估美国投资级（债券）基金的每周数据流。 此前，摩根大通报告称，逾六年来最大单周资金外流数据可能存在错误。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 05时01分]"
+        },
+        {
+          "title": "中国证券投资基金业协会私募证券投资基金专业委员会称，对于一些极端情况，监管部门也进行严密监控。 目前沪深北交易所已针对性设置了“短时间大额成交”的监控指标，明确短时间内大量交易引发指数大幅波动等行为属于异常交易。一旦触发，交易所会及时采取自律监管措施，减少量化交易对市场平稳运行的不利影响。（第一财经）",
+          "url": "https://wallstreetcn.com/livenews/3139766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "7月24日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
