@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T07:00:36.029098+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-07-25T08:12:04.642086+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
@@ -52,11 +52,12 @@
           "url": "https://wallstreetcn.com/livenews/3139671",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时00分 ~ 08时12分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.63%，暂报2119.90点，上周五结束交易以来（7*24）累计下跌1.56%，整体冲高回落。 MarketVectorTM数字资产100中盘指数跌1.49%，报2393.94点，期内累跌6.63%，7月21日北京时间16:01拉升至2669.08点，随后持续下挫。 MarketVector数字资产100指数跌1.42%，报12649.38点，期内累涨0.08%，整体冲高回落。 最近七天迄今，Solana累跌1.81%，狗狗币累跌5.52%，XRP累跌0.26%。 比特币跌0.30%，暂报63878.70美元；以太坊涨0.69%，暂报1854.812美元。",
@@ -80,11 +81,12 @@
           "url": "https://wallstreetcn.com/livenews/3139670",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时00分 ~ 08时12分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 闪迪跌超10%",
