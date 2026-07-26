@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-07-26T06:54:31.097733+08:00",
-  "total_titles_processed": 471,
-  "failed_sources": [],
+  "generated_at": "2026-07-26T08:01:34.734188+08:00",
+  "total_titles_processed": 518,
+  "failed_sources": [
+    "jin10"
+  ],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
@@ -16,8 +18,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 08时01分]"
         }
       ]
     }
