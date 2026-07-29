@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T19:25:30.601284+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2026-07-29T22:07:59.327370+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
@@ -95,8 +95,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 19时25分]"
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 22时07分]"
         },
         {
           "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
@@ -105,11 +105,12 @@
           "ranks": [
             8,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 19时25分]"
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 22时07分]"
         }
       ]
     }
