@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T21:55:43.212484+08:00",
-  "total_titles_processed": 1526,
+  "generated_at": "2026-07-30T23:51:41.861442+08:00",
+  "total_titles_processed": 1654,
   "failed_sources": [],
   "trends": [
     {
@@ -66,7 +66,7 @@
     },
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -89,6 +89,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 00时21分]"
+        },
+        {
+          "title": "紧急救市！报道：韩国监管层拟重启卖空禁令、缩小30%涨跌停板限制",
+          "url": "https://wallstreetcn.com/articles/3778321",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "内盘期货夜市涨跌各异，乙二醇收涨4.7%，低硫燃油、燃油涨约3.3%",
