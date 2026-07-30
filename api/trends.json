@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T03:23:55.477355+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2026-07-31T05:08:09.885481+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 加密货币 加密货币 比特币 以太坊 Binance 币安 OKX 火币 虚拟货币 数字货币 blockchain crypto",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1%，暂报2073点。 MarketVectorTM数字资产100中盘指数涨1.83%，报2381.55点，北京时间05:05刷新日低至2311.71点以来持续反弹。 MarketVector数字资产100指数涨1.68%，报12847.19点。 目前，Solana涨1.78%，狗狗币涨0.80%，XRP涨1.47%。 比特币涨1.54%，暂报64763.94美元，北京时间05:08跌至63269.29美元，随后持续上扬；以太坊涨1.18%，暂报1917.18美元。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 03时23分]"
+        },
+        {
+          "title": "加密货币交易所Coinbase二季度总收入12.2亿美元，分析师预期12.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3142638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         }
       ]
     },
@@ -32,7 +43,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
         }
@@ -48,11 +59,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 03时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 05时08分]"
         }
       ]
     }
