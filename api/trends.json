@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T17:43:47.916609+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-07-31T19:58:44.564835+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
@@ -81,9 +81,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 19时58分]"
         },
         {
           "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citatdel出手收购全部仓位",
