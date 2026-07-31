@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T19:58:44.564835+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-07-31T23:02:13.385954+08:00",
+  "total_titles_processed": 1461,
   "failed_sources": [],
   "trends": [
     {
@@ -79,11 +79,12 @@
           "url": "https://wallstreetcn.com/articles/3778381",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 19时58分]"
+          "appearance_count": 4,
+          "time_info": "[17时43分 ~ 23时02分]"
         },
         {
           "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citatdel出手收购全部仓位",
