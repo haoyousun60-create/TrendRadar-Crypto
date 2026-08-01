@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T21:16:25.219896+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2026-08-01T22:59:30.299012+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
@@ -77,7 +77,7 @@
     },
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
@@ -90,6 +90,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时45分 ~ 08时01分]"
+        },
+        {
+          "title": "铠侠拉开“巨额回购”大幕，存储巨头“回购牛市”即将到来？",
+          "url": "https://wallstreetcn.com/articles/3778486",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "周五（7月31日），美股行业ETF涨跌各异，可选消费ETF收涨3.29%，网络股指数ETF涨2.59%，能源业ETF涨1%，半导体ETF涨0.3%，科技行业ETF跌0.22%，医疗业ETF跌0.59%，生物科技指数ETF跌1.87%。 2026年1-7月，半导体ETF累计上涨50.09%，能源业ETF涨35.03%，全球科技股指数ETF、科技行业ETF至少涨22.09%，可选消费ETF则累跌2.39%。",
