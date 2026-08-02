@@ -1,64 +1,22 @@
 {
-  "generated_at": "2026-08-02T22:27:56.926838+08:00",
-  "total_titles_processed": 1240,
+  "generated_at": "2026-08-03T00:01:00.087703+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "分析师：芯片股若出现反弹不足为奇，但不太可能引领牛市的下一阶段",
           "url": "https://flash.jin10.com/detail/20260802222329040800",
           "source": "金十数据",
           "ranks": [
-            1
+            14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
-          "url": "https://wallstreetcn.com/articles/3778494",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时36分 ~ 18时40分]"
-        },
-        {
-          "title": "铠侠拉开“巨额回购”大幕，存储巨头“回购牛市”即将到来？",
-          "url": "https://wallstreetcn.com/articles/3778486",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 07时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗商品交易所单日白银入库数量创历史新高",
-          "url": "https://flash.jin10.com/detail/20260802132032906800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 16时22分]"
+          "time_info": "00时01分"
         }
       ]
     }
