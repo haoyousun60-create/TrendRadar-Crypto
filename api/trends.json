@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-02T20:02:21.533757+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-08-02T22:27:56.926838+08:00",
+  "total_titles_processed": 1240,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "分析师：芯片股若出现反弹不足为奇，但不太可能引领牛市的下一阶段",
+          "url": "https://flash.jin10.com/detail/20260802222329040800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
         {
           "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
           "url": "https://wallstreetcn.com/articles/3778494",
