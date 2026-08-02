@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-02T16:22:26.018478+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-08-02T18:40:25.401472+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
       "match_count": 2,
       "titles": [
+        {
+          "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
+          "url": "https://wallstreetcn.com/articles/3778494",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时36分 ~ 18时40分]"
+        },
         {
           "title": "铠侠拉开“巨额回购”大幕，存储巨头“回购牛市”即将到来？",
           "url": "https://wallstreetcn.com/articles/3778486",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时06分 ~ 07时56分]"
-        },
-        {
-          "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
-          "url": "https://wallstreetcn.com/articles/3778494",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时36分 ~ 16时22分]"
         }
       ]
     },
