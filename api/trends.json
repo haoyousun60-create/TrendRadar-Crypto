@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T00:23:26.429873+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-04T02:50:36.484714+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 02时50分]"
         },
         {
           "title": "特朗普家族关联的比特币矿企连续三个季度亏损",
@@ -28,6 +28,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 8月3日（周一）晚盘收盘下跌0.33%报878.9元/克；<br/>上海黄金交易所白银T+D 8月3日（周一）晚盘收盘下跌0.85%报14000.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260804023024054800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         }
       ]
     },
