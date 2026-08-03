@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T04:26:54.411877+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-08-04T06:08:09.425891+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             7,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时08分]"
         },
         {
           "title": "特朗普家族关联的比特币矿企连续三个季度亏损",
