@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-08-06T04:26:22.716433+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-08-06T06:25:03.409011+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国芝加哥期权交易所（CBOE）7月期货日均成交量（DTV）增长16.1%。 7月指数期权日均成交量增长34%。 7月跨交易所期权日均成交量增长28.4%。",
+          "url": "https://wallstreetcn.com/livenews/3145602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "【上交所行动之后深交所也将切换交易线路，周边机房已“供应紧张”】从业内反馈来看，沪深交易所均在推动将交易行情接入方式变更为广域网线路，但实施节奏有所不同。多位业内人士称，上交所将交易行情接入方式统一由局域网变更为广域网线路已于7月31日完成。尽管线路切换还未完成，但“近深交所”的机房争夺战已经悄然升温。一位在从事机房租赁业务的人士表示，深交所附近的机房目前供应也已“比较紧张”。据此前报道，上交所附近的机房价格已有明显上涨，且处于一柜难求的状态。(一财)",
+          "url": "https://wallstreetcn.com/livenews/3145481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        }
+      ]
+    },
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
       "match_count": 2,
@@ -14,7 +42,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -45,23 +73,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【上交所行动之后深交所也将切换交易线路，周边机房已“供应紧张”】从业内反馈来看，沪深交易所均在推动将交易行情接入方式变更为广域网线路，但实施节奏有所不同。多位业内人士称，上交所将交易行情接入方式统一由局域网变更为广域网线路已于7月31日完成。尽管线路切换还未完成，但“近深交所”的机房争夺战已经悄然升温。一位在从事机房租赁业务的人士表示，深交所附近的机房目前供应也已“比较紧张”。据此前报道，上交所附近的机房价格已有明显上涨，且处于一柜难求的状态。(一财)",
-          "url": "https://wallstreetcn.com/livenews/3145481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
         }
       ]
     }
