@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T06:33:52.910435+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-08-08T07:32:51.257963+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时39分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[04时39分 ~ 07时32分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，在四大纽约商品交易所（NYMEX）和洲际交易所（ICE）市场中，天然气投机者净空头头寸增加28,093份合约，至89,090份合约。",
@@ -50,8 +50,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时39分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[04时39分 ~ 07时32分]"
         },
         {
           "title": "交易所新规明确：这些LOF应退市",
@@ -99,11 +99,12 @@
           "ranks": [
             1,
             11,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时39分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[04时39分 ~ 07时32分]"
         },
         {
           "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。 特朗普媒体与科技集团称，将调整协议方向，面向Truth Social用户群体推广Crypto.com的预测市场业务。 Yorkville American的业务及其现有和未来ETF产品的计划保持不变。 特朗普媒体与科技集团已终止与Crypto.com的业务合并协议，于2026年8月7日生效。 Crypto.com、特朗普媒体、Yorkville America已共同同意不再推进此前宣布的合作关系。",
@@ -111,11 +112,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时37分 ~ 06时33分]"
+          "appearance_count": 3,
+          "time_info": "[05时37分 ~ 07时32分]"
         },
         {
           "title": "俄安全部门取缔多个与乌克兰有关的加密货币兑换点",
