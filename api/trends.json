@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T09:39:39.666714+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2026-08-10T11:52:54.062436+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 8月10日（周一）早盘盘初上涨1.29%报938.45元/克；<br/>上海黄金交易所白银T+D 8月10日（周一）早盘盘初上涨1.02%报15389.0元/千克。",
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         },
@@ -25,9 +25,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
+        },
+        {
+          "title": "纽约证券交易所总裁：对亚洲及全球上市项目储备感到乐观，全球企业上市热潮将持续至2027年。",
+          "url": "https://flash.jin10.com/detail/20260810112858678800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
         },
         {
           "title": "韩国交易所启动SIDECAR机制，暂停KOSDAQ程序化买盘。",
@@ -36,7 +47,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         }
@@ -44,7 +55,7 @@
     },
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
@@ -57,6 +68,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时29分]"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。纯碱涨超3%，乙二醇（EG）、沪银涨超2%，纯苯、焦煤、丙烯、燃料油涨近2%。跌幅方面，集运欧线、多晶硅跌超2%，PTA跌近2%，沪锌、沪锡跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260810113106660800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
         }
       ]
     }
