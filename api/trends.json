@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T01:56:09.155183+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-08-11T02:55:20.822282+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -12,28 +12,30 @@
           "url": "https://wallstreetcn.com/livenews/3147636",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 02时55分]"
         },
         {
           "title": "数字货币市场普跌，比特币目前跌2%",
           "url": "https://wallstreetcn.com/livenews/3147625",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 02时55分]"
         }
       ]
     },
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "周一（8月10日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货跌0.75%，报230.25欧元/吨。 油菜籽期货涨1.03%，报538.75欧元/吨，近期呈现出V形反转行情、8月3日曾跌至508.75欧元。",
@@ -46,6 +48,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时56分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 8月10日（周一）晚盘收盘上涨0.69%报947.62元/克；<br/>上海黄金交易所白银T+D 8月10日（周一）晚盘收盘上涨1.79%报15830.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260811023542356800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
         }
       ]
     }
