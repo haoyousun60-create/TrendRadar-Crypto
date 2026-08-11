@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T20:59:42.451745+08:00",
-  "total_titles_processed": 1766,
+  "generated_at": "2026-08-11T22:23:47.471555+08:00",
+  "total_titles_processed": 1881,
   "failed_sources": [],
   "trends": [
     {
@@ -122,19 +122,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时58分 ~ 20时59分]"
+          "appearance_count": 6,
+          "time_info": "[17时58分 ~ 22时23分]"
         },
         {
           "title": "金银牛市即将重启？专家：回调是“正常波折”，长期风险回报已改善！",
           "url": "https://www.cls.cn/detail/2451146",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时43分 ~ 20时59分]"
+          "appearance_count": 3,
+          "time_info": "[19时43分 ~ 22时23分]"
         },
         {
           "title": "黄金冲破4400美元后急刹车，机构喊话：短期噪音不改牛市根基",
