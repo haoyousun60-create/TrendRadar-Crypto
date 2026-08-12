@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T18:02:10.141754+08:00",
-  "total_titles_processed": 1413,
+  "generated_at": "2026-08-12T19:43:45.041677+08:00",
+  "total_titles_processed": 1549,
   "failed_sources": [],
   "trends": [
     {
@@ -37,7 +37,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -204,11 +204,12 @@
           "url": "https://www.toutiao.com/trending/7672984185451053082/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时15分 ~ 18时02分]"
+          "appearance_count": 5,
+          "time_info": "[16时15分 ~ 19时43分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.15%，暂报2044.75点。 MarketVectorTM数字资产100中盘指数跌1.71%，报2262.71点。 MarketVector数字资产100指数跌0.45%，报12591.71点。 目前，Solana跌1.60%，狗狗币涨0.92%，XRP跌1.26%。 比特币跌0.75%，暂报63456.64美元；以太坊跌0.69%，暂报1863.05美元。",
