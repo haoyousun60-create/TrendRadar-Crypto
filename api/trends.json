@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T09:49:07.013709+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2026-08-13T12:10:42.053540+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "上期所基本金属夜盘收盘涨跌不一，氧化铝涨1%。国际铜涨0.21%，沪铜涨0.04%，沪铝涨0.58%，沪锌跌0.08%，沪铅跌0.09%，沪镍跌0.50%，沪锡涨0.35%；氧化铝涨1.00%，铝合金涨0.42%，不锈钢跌0.07%。",
@@ -42,6 +42,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时39分]"
+        },
+        {
+          "title": "金十图示：2026年08月13日（周四）富时中国A50指数成分股午盘收盘行情一览：银行股涨跌互现，证券、半导体、通信设备悉数走高",
+          "url": "https://flash.jin10.com/detail/20260813113552816800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌不一。玻璃跌近3%，纯碱跌超2%，氧化铝、铸造铝、焦煤跌超1%，尿素、不锈钢（SS）、沪铝跌近1%。涨幅方面，合成橡胶涨超2%，纸浆、甲醇、集运欧线涨近2%，PTA、对二甲苯、鸡蛋、短纤、塑料、燃料油、SC原油、瓶片涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260813113109336800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "美股三大指数涨跌不一，微软跌逾2%，领跌道指",
