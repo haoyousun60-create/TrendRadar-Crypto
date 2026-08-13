@@ -1,201 +1,35 @@
 {
-  "generated_at": "2026-08-13T23:58:02.220776+08:00",
-  "total_titles_processed": 1831,
-  "failed_sources": [],
+  "generated_at": "2026-08-14T01:01:54.456572+08:00",
+  "total_titles_processed": 310,
+  "failed_sources": [
+    "weibo"
+  ],
   "trends": [
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
         {
           "title": "费城半导体指数即将重回技术性牛市 华尔街怎么看？",
           "url": "https://www.cls.cn/detail/2453364",
           "source": "财联社热门",
           "ranks": [
-            9,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时03分 ~ 23时58分]"
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 01时01分]"
         },
         {
           "title": "标普冲击新高 费城半导体指数即将重回“牛市” | 今夜看点",
           "url": "https://www.cls.cn/detail/2453791",
           "source": "财联社热门",
           "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时55分 ~ 23时58分]"
-        },
-        {
-          "title": "美温和通胀缓解加息压力，美股期指涨跌互现，光通信、存储芯片股盘前下跌，金油齐跌",
-          "url": "https://wallstreetcn.com/articles/3779338",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时44分 ~ 21时05分]"
-        },
-        {
-          "title": "上期所基本金属夜盘收盘涨跌不一，氧化铝涨1%。国际铜涨0.21%，沪铜涨0.04%，沪铝涨0.58%，沪锌跌0.08%，沪铅跌0.09%，沪镍跌0.50%，沪锡涨0.35%；氧化铝涨1.00%，铝合金涨0.42%，不锈钢跌0.07%。",
-          "url": "https://wallstreetcn.com/livenews/3148722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 03时14分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一，海力士涨9%",
-          "url": "https://flash.jin10.com/detail/20260813040109673800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时43分]"
-        },
-        {
-          "title": "温和通胀数据及10年期国债拍卖后，美债收盘涨跌互现",
-          "url": "https://wallstreetcn.com/livenews/3148749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时39分]"
-        },
-        {
-          "title": "芯片双雄领涨KOSPI进牛市 地缘僵局成市场隐忧",
-          "url": "https://flash.jin10.com/detail/20260813173344487800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
-          "title": "金十图示：2026年08月13日（周四）富时中国A50指数成分股午盘收盘行情一览：银行股涨跌互现，证券、半导体、通信设备悉数走高",
-          "url": "https://flash.jin10.com/detail/20260813113552816800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨跌不一。玻璃跌近3%，纯碱跌超2%，氧化铝、铸造铝、焦煤跌超1%，尿素、不锈钢（SS）、沪铝跌近1%。涨幅方面，合成橡胶涨超2%，纸浆、甲醇、集运欧线涨近2%，PTA、对二甲苯、鸡蛋、短纤、塑料、燃料油、SC原油、瓶片涨超1%。",
-          "url": "https://flash.jin10.com/detail/20260813113109336800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "美股三大指数涨跌不一，微软跌逾2%，领跌道指",
-          "url": "https://wallstreetcn.com/livenews/3148752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "芝加哥期权交易所波动率指数（VIX）跌破15，创1月9日以来新低。",
-          "url": "https://wallstreetcn.com/livenews/3148729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "伦敦金属交易所(LME)：锌库存减少2800吨，镍库存减少12吨，锡库存减少55吨，铅库存减少2700吨，铜库存减少4400吨，铝库存减少1700吨。",
-          "url": "https://flash.jin10.com/detail/20260813160056645800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
-          "title": "芝加哥期权交易所波动率指数（VIX）跌破15，创1月9日以来新低",
-          "url": "https://wallstreetcn.com/livenews/3148729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时41分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 8月12日（周三）晚盘收盘上涨0.23%报956.01元/克；<br/>上海黄金交易所白银T+D 8月12日（周三）晚盘收盘上涨0.23%报15988.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260813023048574800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "伦敦金属交易所(LME)：锌库存减少2800吨，镍库存减少12吨，锡库存减少55吨，铅库存减少2700吨，铜库存减少4400吨，铝库存减少1700吨。",
-          "url": "https://wallstreetcn.com/livenews/3149024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
-          "title": "据香港交易所披露，高盛对中际旭创股份有限公司 - H股的多头持仓比例于2026年8月7日从11.01%降至10.89%； 摩根大通（JPMorgan）对中际旭创股份有限公司 - H股的多头持仓比例于2026年8月10日从15.63%降至15.6%。",
-          "url": "https://wallstreetcn.com/livenews/3149076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时03分"
+          "time_info": "[01时00分 ~ 01时01分]"
         }
       ]
     }
