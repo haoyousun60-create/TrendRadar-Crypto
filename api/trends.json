@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-08-14T01:01:54.456572+08:00",
-  "total_titles_processed": 310,
-  "failed_sources": [
-    "weibo"
-  ],
+  "generated_at": "2026-08-14T02:01:47.964716+08:00",
+  "total_titles_processed": 376,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
@@ -14,22 +12,24 @@
           "url": "https://www.cls.cn/detail/2453364",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时01分]"
         },
         {
           "title": "标普冲击新高 费城半导体指数即将重回“牛市” | 今夜看点",
           "url": "https://www.cls.cn/detail/2453791",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时01分]"
         }
       ]
     }
