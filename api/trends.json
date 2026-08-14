@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T16:14:42.204539+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2026-08-14T17:59:33.629047+08:00",
+  "total_titles_processed": 1427,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -99,7 +99,7 @@
     },
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "费城半导体指数即将重回技术性牛市 华尔街怎么看？",
@@ -126,6 +126,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时00分 ~ 12时07分]"
+        },
+        {
+          "title": "美国银行：共和党中期胜利则牛市延续 民主党破局则风险蔓延",
+          "url": "https://flash.jin10.com/detail/20260814173128151800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         }
       ]
     }
