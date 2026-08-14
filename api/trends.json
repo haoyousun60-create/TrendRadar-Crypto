@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T04:28:59.314265+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-08-15T05:23:45.770633+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时49分 ~ 05时23分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 8月14日（周五）晚盘收盘上涨0.99%报948.91元/克；<br/>上海黄金交易所白银T+D 8月14日（周五）晚盘收盘上涨1.06%报15780.0元/千克。",
@@ -67,8 +67,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时49分 ~ 05时23分]"
         },
         {
           "title": "国际油市涨跌交错，国内油价如期下调：加满一箱油少花9元",
@@ -79,8 +79,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时49分 ~ 05时23分]"
         }
       ]
     }
