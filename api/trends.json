@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T00:50:01.562643+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-15T01:51:55.581621+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 01时51分]"
         },
         {
           "title": "国际油市涨跌交错，国内油价如期下调：加满一箱油少花9元",
@@ -26,8 +26,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 01时51分]"
         }
       ]
     },
@@ -43,8 +43,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 01时51分]"
         }
       ]
     }
