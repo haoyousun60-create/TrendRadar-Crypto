@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-08-15T01:51:55.581621+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-08-15T02:52:35.302631+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 8月14日（周五）晚盘收盘上涨0.99%报948.91元/克；<br/>上海黄金交易所白银T+D 8月14日（周五）晚盘收盘上涨1.06%报15780.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260815023016767800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "研报违规，交易所罕见对两券商口头警示，业绩预测出问题？",
+          "url": "https://www.cls.cn/detail/2454915",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时52分]"
+        },
+        {
+          "title": "洲际交易所（ICE）：截至8月11日当周，汽油投机者净多头头寸增加2358份合约，至90715份合约。",
+          "url": "https://flash.jin10.com/detail/20260815013911548800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "洲际交易所（ICE）：截至8月11日当周，布伦特原油投机者净多头头寸增加76,026份合约，至240,748份合约。",
+          "url": "https://flash.jin10.com/detail/20260815013417616800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        }
+      ]
+    },
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
       "match_count": 2,
@@ -12,39 +62,24 @@
           "url": "https://wallstreetcn.com/articles/3779437",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时52分]"
         },
         {
           "title": "国际油市涨跌交错，国内油价如期下调：加满一箱油少花9元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33782771",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 01时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "研报违规，交易所罕见对两券商口头警示，业绩预测出问题？",
-          "url": "https://www.cls.cn/detail/2454915",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时52分]"
         }
       ]
     }
