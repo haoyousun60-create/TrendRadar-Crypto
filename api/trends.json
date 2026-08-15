@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T18:21:02.822426+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-08-15T19:18:35.556464+08:00",
+  "total_titles_processed": 1389,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时49分 ~ 18时21分]"
+          "appearance_count": 23,
+          "time_info": "[00时49分 ~ 19时18分]"
         },
         {
           "title": "近日，富国基金旗下全资子公司富国资产管理（香港）有限公司获银河国际证券（新加坡）有限公司委任为投资顾问，为一只聚焦新加坡本地中小市值股票的主动管理型权益ETF提供选股支持。该产品已启动发行，预计后续将在新加坡交易所主板挂牌。 富国香港依托富国基金基本面与AI双轮驱动的量化模型体系，为该ETF提供选股决策支持。本次合作是公募基金“出海”模式升级的具体体现，表明中资资管机构在境外市场正逐步向能力端的投研服务者延伸。（证券日报）",
@@ -121,8 +121,21 @@
     },
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "8月，华尔街的“牛市”又回来了，“赌性”也回来了",
+          "url": "https://wallstreetcn.com/articles/3779498",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时34分 ~ 19时18分]"
+        },
         {
           "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
           "url": "https://wallstreetcn.com/articles/3779437",
@@ -134,19 +147,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时49分 ~ 06时20分]"
-        },
-        {
-          "title": "8月，华尔街的“牛市”又回来了，“赌性”也回来了",
-          "url": "https://wallstreetcn.com/articles/3779498",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时34分 ~ 18时21分]"
         },
         {
           "title": "中期选举成AI牛市分水岭？ 美银Hartnett ：若共和党守住参议院，AI股或一路“狂飙”至2027年",
@@ -187,6 +187,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时20分 ~ 09时06分]"
+        },
+        {
+          "title": "A股牛市第三阶段的新叙事",
+          "url": "https://wallstreetcn.com/articles/3779505",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         }
       ]
     }
