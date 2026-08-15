@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T05:19:53.725364+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-08-16T06:19:53.783866+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时19分]"
         },
         {
           "title": "A股牛市第三阶段的新叙事",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时19分]"
         }
       ]
     },
@@ -45,8 +45,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时19分]"
         }
       ]
     }
