@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T17:24:13.107600+08:00",
-  "total_titles_processed": 1272,
+  "generated_at": "2026-08-15T18:21:02.822426+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时49分 ~ 17时24分]"
+          "appearance_count": 22,
+          "time_info": "[00时49分 ~ 18时21分]"
         },
         {
           "title": "近日，富国基金旗下全资子公司富国资产管理（香港）有限公司获银河国际证券（新加坡）有限公司委任为投资顾问，为一只聚焦新加坡本地中小市值股票的主动管理型权益ETF提供选股支持。该产品已启动发行，预计后续将在新加坡交易所主板挂牌。 富国香港依托富国基金基本面与AI双轮驱动的量化模型体系，为该ETF提供选股决策支持。本次合作是公募基金“出海”模式升级的具体体现，表明中资资管机构在境外市场正逐步向能力端的投研服务者延伸。（证券日报）",
@@ -136,6 +136,19 @@
           "time_info": "[00时49分 ~ 06时20分]"
         },
         {
+          "title": "8月，华尔街的“牛市”又回来了，“赌性”也回来了",
+          "url": "https://wallstreetcn.com/articles/3779498",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时34分 ~ 18时21分]"
+        },
+        {
           "title": "中期选举成AI牛市分水岭？ 美银Hartnett ：若共和党守住参议院，AI股或一路“狂飙”至2027年",
           "url": "https://wallstreetcn.com/articles/3779452",
           "source": "华尔街见闻",
@@ -147,21 +160,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时06分 ~ 17时24分]"
-        },
-        {
-          "title": "8月，华尔街的“牛市”又回来了，“赌性”也回来了",
-          "url": "https://wallstreetcn.com/articles/3779498",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时34分 ~ 17时24分]"
+          "appearance_count": 13,
+          "time_info": "[09时06分 ~ 18时21分]"
         },
         {
           "title": "国际油市涨跌交错，国内油价如期下调：加满一箱油少花9元",
