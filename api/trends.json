@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T07:22:34.830364+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-08-16T09:10:38.948646+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 09时10分]"
         },
         {
           "title": "A股牛市第三阶段的新叙事",
@@ -26,11 +26,12 @@
           "ranks": [
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 09时10分]"
         }
       ]
     },
@@ -43,11 +44,12 @@
           "url": "https://www.cls.cn/detail/2454915",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 09时10分]"
         }
       ]
     }
