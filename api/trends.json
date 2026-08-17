@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-08-17T18:31:46.858022+08:00",
-  "total_titles_processed": 1603,
-  "failed_sources": [
-    "bilibili-hot-search"
-  ],
+  "generated_at": "2026-08-17T19:24:06.659492+08:00",
+  "total_titles_processed": 1699,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
