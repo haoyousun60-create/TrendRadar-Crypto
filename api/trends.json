@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T04:24:43.825525+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-08-18T05:59:21.767293+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时59分]"
         },
         {
           "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2456385",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时59分]"
         }
       ]
     },
