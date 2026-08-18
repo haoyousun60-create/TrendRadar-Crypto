@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T20:42:53.543170+08:00",
-  "total_titles_processed": 1926,
+  "generated_at": "2026-08-18T21:41:01.203247+08:00",
+  "total_titles_processed": 2021,
   "failed_sources": [],
   "trends": [
     {
@@ -131,11 +131,12 @@
             9,
             8,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时27分 ~ 20时42分]"
+          "appearance_count": 19,
+          "time_info": "[09时27分 ~ 21时41分]"
         },
         {
           "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
