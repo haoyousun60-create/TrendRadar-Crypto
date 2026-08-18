@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-08-18T15:36:41.955869+08:00",
-  "total_titles_processed": 1389,
+  "generated_at": "2026-08-18T16:35:16.228671+08:00",
+  "total_titles_processed": 1497,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "印尼计划中的商品交易所可能涵盖棕榈油、镍和煤炭",
+          "url": "https://flash.jin10.com/detail/20260818130310066800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "伦敦金属交易所(LME)：锌库存减少300吨，锡库存减少20吨，铜库存增加15725吨，铝库存持平，铅库存减少1975吨，镍库存增加408吨。",
+          "url": "https://wallstreetcn.com/livenews/3150947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 8月18日（周二）早盘盘初上涨0.94%报960.5元/克；<br/>上海黄金交易所白银T+D 8月18日（周二）早盘盘初上涨1.18%报16190.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260818090107078800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "上海黄金交易所8月18日（周二）交易行情",
+          "url": "https://flash.jin10.com/detail/20260818161034425800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 8月17日（周一）晚盘收盘上涨0.37%报955.07元/克；<br/>上海黄金交易所白银T+D 8月17日（周一）晚盘收盘上涨0.49%报16080.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260818023107255800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "印度国家证券交易所IPO目标估值高达550亿美元，刷新印度历史纪录",
+          "url": "https://wallstreetcn.com/livenews/3150862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "伦敦金属交易所（LME）铜期货一日价差触及110美元，创2021年以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3150927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        }
+      ]
+    },
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
       "match_count": 5,
@@ -18,8 +101,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时27分 ~ 15时36分]"
+          "appearance_count": 12,
+          "time_info": "[09时27分 ~ 16时35分]"
         },
         {
           "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
@@ -55,11 +138,12 @@
             12,
             11,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时33分 ~ 15时36分]"
+          "appearance_count": 7,
+          "time_info": "[12时33分 ~ 16时35分]"
         },
         {
           "title": "金十图示：2026年08月18日（周二）富时中国A50指数成分股今日收盘行情一览：成分股涨跌不一，保险、证券、消费电子板块全日疲软",
@@ -68,59 +152,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "印尼计划中的商品交易所可能涵盖棕榈油、镍和煤炭",
-          "url": "https://flash.jin10.com/detail/20260818130310066800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 8月18日（周二）早盘盘初上涨0.94%报960.5元/克；<br/>上海黄金交易所白银T+D 8月18日（周二）早盘盘初上涨1.18%报16190.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260818090107078800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 8月17日（周一）晚盘收盘上涨0.37%报955.07元/克；<br/>上海黄金交易所白银T+D 8月17日（周一）晚盘收盘上涨0.49%报16080.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260818023107255800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        },
-        {
-          "title": "印度国家证券交易所IPO目标估值高达550亿美元，刷新印度历史纪录",
-          "url": "https://wallstreetcn.com/livenews/3150862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时39分"
         }
       ]
     }
