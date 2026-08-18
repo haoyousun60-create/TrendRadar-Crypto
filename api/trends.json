@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T05:22:35.690211+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-08-19T06:21:28.544192+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260819050634983800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时21分]"
         },
         {
           "title": "美国得州证券交易所迎来首批一级上市ETF",
@@ -83,8 +84,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时21分]"
         },
         {
           "title": "“新债王”Gundlach警告：芯片变“新资产类别”是AI牛市见顶信号",
@@ -94,8 +95,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 05时22分]"
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 06时21分]"
         }
       ]
     }
