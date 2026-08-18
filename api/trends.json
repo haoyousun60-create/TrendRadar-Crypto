@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T07:34:05.260634+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2026-08-18T09:28:04.052528+08:00",
+  "total_titles_processed": 789,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 07时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时28分]"
         },
         {
           "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
@@ -31,13 +32,35 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 05时59分]"
+        },
+        {
+          "title": "AI资本开支疑虑缓解，美光、闪迪等存储股迎来重估，带动芯片指数重返牛市",
+          "url": "https://wallstreetcn.com/articles/3779645",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
         }
       ]
     },
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 8月18日（周二）早盘盘初上涨0.94%报960.5元/克；<br/>上海黄金交易所白银T+D 8月18日（周二）早盘盘初上涨1.18%报16190.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260818090107078800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
         {
           "title": "上海黄金交易所黄金T+D 8月17日（周一）晚盘收盘上涨0.37%报955.07元/克；<br/>上海黄金交易所白银T+D 8月17日（周一）晚盘收盘上涨0.49%报16080.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260818023107255800",
