@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T18:25:58.535457+08:00",
-  "total_titles_processed": 1717,
+  "generated_at": "2026-08-18T20:02:12.213057+08:00",
+  "total_titles_processed": 1838,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "印尼计划中的商品交易所可能涵盖棕榈油、镍和煤炭",
@@ -105,6 +105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "芯源微：拟在北京产权交易所公开挂牌转让所持有的广州芯知科技有限公司50%股权，挂牌底价以经国资备案的评估值为基础确定。",
+          "url": "https://wallstreetcn.com/livenews/3151056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     },
@@ -123,8 +134,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时27分 ~ 18时25分]"
+          "appearance_count": 16,
+          "time_info": "[09时27分 ~ 20时02分]"
         },
         {
           "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
@@ -140,19 +151,6 @@
           "time_info": "[00时25分 ~ 09时28分]"
         },
         {
-          "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
-          "url": "https://wallstreetcn.com/articles/3779603",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时59分]"
-        },
-        {
           "title": "费半重返牛市及存储股强势反弹 谁是背后推手？一文读懂",
           "url": "https://www.cls.cn/detail/2456773",
           "source": "财联社热门",
@@ -166,8 +164,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时33分 ~ 18时25分]"
+          "appearance_count": 11,
+          "time_info": "[12时33分 ~ 20时02分]"
+        },
+        {
+          "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
+          "url": "https://wallstreetcn.com/articles/3779603",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时59分]"
         },
         {
           "title": "印尼股市收市迈入牛市，较6月低点上涨21%。",
@@ -199,7 +210,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
