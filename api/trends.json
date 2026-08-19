@@ -1,225 +1,44 @@
 {
-  "generated_at": "2026-08-19T22:32:11.493165+08:00",
-  "total_titles_processed": 2068,
+  "generated_at": "2026-08-20T00:31:16.758054+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "据相关文件显示，巴西能源公司Cosan已正式通知纽约证券交易所，拟将其美国存托凭证（ADS）退市。",
-          "url": "https://flash.jin10.com/detail/20260819050634983800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时21分]"
-        },
-        {
-          "title": "“秘密递表” 释放制度红利，港交所向全球交易所“抢资产”",
-          "url": "https://wallstreetcn.com/livenews/3151361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "韩国交易所启动SIDECAR机制，暂停KOSPI程序化卖盘。",
-          "url": "https://wallstreetcn.com/livenews/3151386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "伦敦金属交易所铜注册仓单库存大增35,650吨，为2024年以来最大增幅。",
-          "url": "https://wallstreetcn.com/livenews/3151604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "伦敦金属交易所(LME)：锌库存增加8525吨，铅库存增加9575吨，铜库存增加12425吨，镍库存增加78吨，锡库存增加260吨，铝库存持平。",
-          "url": "https://wallstreetcn.com/livenews/3151603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "香港交易所第二季度净利润53.8亿港元，市场预估49.1亿港元。 第二季度收入及其他收益85.0亿港元，市场预估79.1亿港元。 第二季度息税折旧及摊销前利润68.2亿港元，市场预估62.6亿港元。 上半年净利润105.7亿港元，市场预估101.5亿港元。 上半年收入及其他收益167.0亿港元，市场预估161.5亿港元。 上半年沪深港通收入及其他收益28.5亿港元。 上半年息税折旧及摊销前利润134.1亿港元。 每股中期派息7.43港元。",
-          "url": "https://wallstreetcn.com/livenews/3151482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
-          "title": "美国得州证券交易所迎来首批一级上市ETF",
-          "url": "https://wallstreetcn.com/livenews/3151298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 8月18日（周二）晚盘收盘下跌0.91%报945.5元/克；<br/>上海黄金交易所白银T+D 8月18日（周二）晚盘收盘下跌2.63%报15576.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260819023034885800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 8月19日（周三）晚盘盘初下跌0.97%报944.95元/克；<br/>上海黄金交易所白银T+D 8月19日（周三）晚盘盘初上涨0.31%报15459.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260819200121287800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "韩国交易所启动KOSPI侧车机制，暂停程序化卖盘5分钟。",
-          "url": "https://flash.jin10.com/detail/20260819080710472800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# 加密货币 加密货币 比特币 以太坊 Binance 币安 OKX 火币 虚拟货币 数字货币 blockchain crypto",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "路透社/益普索民调：63%的美国人表示，特朗普及其家族去年通过加密货币项目获利超过10亿美元的行为“不恰当”。48%的特朗普共和党支持者认为，特朗普的商业交易会影响官方政策。",
-          "url": "https://flash.jin10.com/detail/20260819180046231800",
-          "source": "金十数据",
+          "title": "受美国财政部意外宣布计划削减债券收益率的影响，比特币价格上涨，债券收益率下降，加密货币相关股票走高。 比特币价格一度上涨7.7%，达到69523美元，创下6月2日以来的最高价。 数据显示近24小时加密市场总爆仓金额达约13.45亿美元，涉及105,370名交易者，其中约11.91亿美元为空单爆仓，多头爆仓约1.53亿美元。 Strategy涨14%，Coinbase涨12%，Circle涨12%。",
+          "url": "https://wallstreetcn.com/livenews/3151872",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "00时31分"
         },
         {
-          "title": "OpenAI二季度营收令投资者失望 美国SEC公布加密货币监管方案 | 环球市场",
-          "url": "https://www.cls.cn/detail/2457737",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时39分]"
-        },
-        {
-          "title": "美国SEC公布加密货币监管方案，推进数字资产监管进程",
-          "url": "https://wallstreetcn.com/livenews/3151303",
+          "title": "比特币涨幅扩大至7.7%。",
+          "url": "https://wallstreetcn.com/livenews/3151864",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 05时22分]"
-        },
-        {
-          "title": "比特币巨鲸豪掷27.5亿美元重返市场扫货",
-          "url": "https://wallstreetcn.com/livenews/3151268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "“新债王”Gundlach警告：芯片变“新资产类别”是AI牛市见顶信号",
-          "url": "https://wallstreetcn.com/articles/3779682",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时31分 ~ 14时42分]"
-        },
-        {
-          "title": "AI资本开支疑虑缓解，美光、闪迪等存储股迎来重估，带动芯片指数重返牛市",
-          "url": "https://wallstreetcn.com/articles/3779645",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时21分]"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，生物科技指数ETF涨超4%，医疗业ETF涨近3%，半导体ETF跌0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3151824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时32分"
+          "time_info": "00时31分"
         },
         {
-          "title": "夜盘开盘，国内期货主力合约涨跌不一，低硫燃料油（LU）跌超1%，玻璃、SC原油、PTA、对二甲苯、纯碱跌近1%。涨幅方面，沪金、沪银、焦煤涨超1%，淀粉、沪镍涨近1%。",
-          "url": "https://flash.jin10.com/detail/20260819210004626800",
-          "source": "金十数据",
+          "title": "以太坊涨至2000.44美元，过去24小时内涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3151858",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时42分"
+          "time_info": "00时31分"
         }
       ]
     }
