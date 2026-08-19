@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T11:46:08.204086+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-08-19T13:29:42.115288+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "据相关文件显示，巴西能源公司Cosan已正式通知纽约证券交易所，拟将其美国存托凭证（ADS）退市。",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "香港交易所第二季度净利润53.8亿港元，市场预估49.1亿港元。 第二季度收入及其他收益85.0亿港元，市场预估79.1亿港元。 第二季度息税折旧及摊销前利润68.2亿港元，市场预估62.6亿港元。 上半年净利润105.7亿港元，市场预估101.5亿港元。 上半年收入及其他收益167.0亿港元，市场预估161.5亿港元。 上半年沪深港通收入及其他收益28.5亿港元。 上半年息税折旧及摊销前利润134.1亿港元。 每股中期派息7.43港元。",
+          "url": "https://wallstreetcn.com/livenews/3151482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "美国得州证券交易所迎来首批一级上市ETF",
@@ -119,8 +130,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时31分 ~ 11时46分]"
+          "appearance_count": 13,
+          "time_info": "[01时31分 ~ 13时29分]"
         },
         {
           "title": "AI资本开支疑虑缓解，美光、闪迪等存储股迎来重估，带动芯片指数重返牛市",
