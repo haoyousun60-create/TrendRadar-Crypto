@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T10:56:50.090078+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2026-08-19T11:46:08.204086+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
@@ -119,8 +119,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时31分 ~ 10时56分]"
+          "appearance_count": 12,
+          "time_info": "[01时31分 ~ 11时46分]"
         },
         {
           "title": "AI资本开支疑虑缓解，美光、闪迪等存储股迎来重估，带动芯片指数重返牛市",
