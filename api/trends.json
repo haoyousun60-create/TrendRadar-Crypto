@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T01:31:39.634196+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-08-20T02:46:41.878246+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时46分]"
         },
         {
           "title": "比特币涨幅扩大至7.7%。",
@@ -42,6 +43,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 8月19日（周三）晚盘收盘上涨2.44%报966.97元/克；<br/>上海黄金交易所白银T+D 8月19日（周三）晚盘收盘上涨3.54%报15956.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260820023051776800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         }
       ]
     }
