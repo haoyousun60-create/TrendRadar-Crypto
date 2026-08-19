@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T09:07:18.726375+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2026-08-19T10:56:50.090078+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
@@ -37,7 +37,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -70,7 +70,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         }
@@ -115,11 +115,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时31分 ~ 09时07分]"
+          "appearance_count": 10,
+          "time_info": "[01时31分 ~ 10时56分]"
         },
         {
           "title": "AI资本开支疑虑缓解，美光、闪迪等存储股迎来重估，带动芯片指数重返牛市",
