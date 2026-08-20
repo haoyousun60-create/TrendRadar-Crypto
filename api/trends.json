@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T17:33:05.531902+08:00",
-  "total_titles_processed": 1606,
+  "generated_at": "2026-08-20T18:27:58.537534+08:00",
+  "total_titles_processed": 1713,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时06分 ~ 17时33分]"
+          "appearance_count": 13,
+          "time_info": "[09时06分 ~ 18时27分]"
         },
         {
           "title": "黄金、白银、比特币齐涨 美财政部出手稳定债市 | 环球市场",
@@ -111,7 +111,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         }
