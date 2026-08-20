@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T20:44:11.901549+08:00",
-  "total_titles_processed": 1957,
+  "generated_at": "2026-08-20T21:44:20.397834+08:00",
+  "total_titles_processed": 2053,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时06分 ~ 20时44分]"
+          "appearance_count": 17,
+          "time_info": "[09时06分 ~ 21时44分]"
         },
         {
           "title": "黄金、白银、比特币齐涨 美财政部出手稳定债市 | 环球市场",
@@ -119,7 +119,7 @@
     },
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 8月19日（周三）晚盘收盘上涨2.44%报966.97元/克；<br/>上海黄金交易所白银T+D 8月19日（周三）晚盘收盘上涨3.54%报15956.0元/千克。",
@@ -143,6 +143,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时36分 ~ 17时33分]"
+        },
+        {
+          "title": "沙特交易所：批准SNB Capital在阿拉伯国家银行开展做市活动。",
+          "url": "https://flash.jin10.com/detail/20260820205302735800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         }
       ]
     },
