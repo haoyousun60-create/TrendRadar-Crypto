@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T03:25:01.038870+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-08-22T04:23:43.241779+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "洲际交易所（ICE）：8月18日当周，投机者所持ICE布伦特原油净多头头寸增加11,149手合约，至251,897手合约，创11周新高。 所持罗布斯塔咖啡净多头头寸创两个月新低。 所持白糖净多头头寸达到67,936手合约，创历史新高。 所持伦敦可可净空头头寸创七周新高。",
@@ -26,7 +26,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
@@ -51,12 +51,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至8月18日当周，纽约商品交易所（NYMEX）WTI原油期货投机者将净多头头寸减少3,584手，至102,274手。",
+          "url": "https://flash.jin10.com/detail/20260822033735459800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至8月18日当周，纽约商品交易所（NYMEX）和洲际交易所（ICE）天然气投机者将净空头头寸减少3,405手，至66,836份手。",
+          "url": "https://flash.jin10.com/detail/20260822033656379800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至8月18日当周，投机者将芝加哥期货交易所（CBOT）美国5年期国债期货净空头头寸增加33,349手，至1,274,105手。投机者将芝加哥期货交易所（CBOT）美国国债期货净空头头寸增加39,405手，至219,012手。投机者将芝加哥期货交易所（CBOT）美国超长期国债期货净空头头寸增加19,941手，至346,724手。",
+          "url": "https://flash.jin10.com/detail/20260822033336495800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至8月18日当周，投机者将芝加哥期货交易所（CBOT）10年期美国国债期货净空头头寸增加31,908手，至946,961手。投机者将芝加哥期货交易所（CBOT）2年期美国国债期货净空头头寸减少93,706手，至927,337手。",
+          "url": "https://flash.jin10.com/detail/20260822033158441800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         }
       ]
     },
     {
       "keyword_group": "# 加密货币 加密货币 比特币 以太坊 Binance 币安 OKX 火币 虚拟货币 数字货币 blockchain crypto",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
@@ -66,8 +110,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时23分]"
         },
         {
           "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
@@ -78,8 +122,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时23分]"
         },
         {
           "title": "达利欧：债务危机逼近，建议卖出债券、买入黄金和比特币",
@@ -93,6 +137,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时27分 ~ 03时25分]"
+        },
+        {
+          "title": "美债回购叠加政策利好 比特币本周飙升近25% 重返8万美元附近",
+          "url": "https://www.cls.cn/detail/2461169",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         }
       ]
     },
@@ -108,8 +163,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时23分]"
         }
       ]
     }
