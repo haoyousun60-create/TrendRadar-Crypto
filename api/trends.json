@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T19:23:43.338216+08:00",
-  "total_titles_processed": 1901,
+  "generated_at": "2026-08-21T20:42:25.349790+08:00",
+  "total_titles_processed": 2019,
   "failed_sources": [],
   "trends": [
     {
@@ -105,7 +105,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -138,7 +138,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -178,8 +178,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时10分 ~ 19时23分]"
+          "appearance_count": 15,
+          "time_info": "[09时10分 ~ 20时42分]"
         },
         {
           "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
@@ -250,11 +250,12 @@
           "ranks": [
             13,
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时37分 ~ 19时23分]"
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 20时42分]"
         },
         {
           "title": "早盘开盘，国内期货主力合约涨跌不一，沪银涨近3%，纸浆、燃料油、液化石油气（LPG）、沥青涨近2%，沪铅涨超1%，20号胶、低硫燃料油（LU）涨近1%。跌幅方面，焦煤、不锈钢（SS）、菜粕、玻璃、聚氯乙烯（PVC）跌超1%，菜油、沪镍跌近1%。",
@@ -268,6 +269,20 @@
           "time_info": "09时10分"
         },
         {
+          "title": "总动员！“大宗商品教父”连发十余帖：商品牛市正迈入下一阶段",
+          "url": "https://www.cls.cn/detail/2460536",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 20时42分]"
+        },
+        {
           "title": "AI助力治愈癌症 创新药牛市来了吗",
           "url": "https://www.toutiao.com/trending/7676097469440069158/",
           "source": "今日头条",
@@ -278,19 +293,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时33分 ~ 03时30分]"
-        },
-        {
-          "title": "总动员！“大宗商品教父”连发十余帖：商品牛市正迈入下一阶段",
-          "url": "https://www.cls.cn/detail/2460536",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 19时23分]"
         },
         {
           "title": "金十图示：2026年08月21日（周五）富时中国A50指数成分股午盘收盘行情一览：银行、半导体板块涨跌不一，保险、通信设备、消费电子板块走高",
