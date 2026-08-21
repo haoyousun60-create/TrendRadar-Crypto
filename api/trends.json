@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T22:33:25.544106+08:00",
-  "total_titles_processed": 2228,
+  "generated_at": "2026-08-21T23:31:41.818446+08:00",
+  "total_titles_processed": 2307,
   "failed_sources": [],
   "trends": [
     {
@@ -178,8 +178,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时10分 ~ 22时33分]"
+          "appearance_count": 18,
+          "time_info": "[09时10分 ~ 23时31分]"
         },
         {
           "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
@@ -235,8 +235,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时43分 ~ 22时33分]"
+          "appearance_count": 3,
+          "time_info": "[21时43分 ~ 23时31分]"
         },
         {
           "title": "比特币站上78000美元",
@@ -338,8 +338,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 23时31分]"
         }
       ]
     }
