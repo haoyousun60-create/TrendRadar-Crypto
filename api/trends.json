@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T09:07:02.351925+08:00",
-  "total_titles_processed": 775,
+  "generated_at": "2026-08-22T10:52:56.727859+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 09时07分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 10时52分]"
+        },
+        {
+          "title": "【早报】国常会最新部署，事关新一代通信网建设；中际旭创、东山精密、东方财富等发布半年报；加密货币持续走高",
+          "url": "https://www.cls.cn/detail/2461292",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 10时52分]"
         },
         {
           "title": "美股止跌反弹，道指涨近1%，数字货币再猛涨，黄金升破4600",
@@ -39,31 +52,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 10时52分]"
         },
         {
           "title": "达利欧：美国债务危机最快三年内到来，建议卖出债券、买入黄金和比特币",
           "url": "https://wallstreetcn.com/articles/3780028",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 10时52分]"
         },
         {
-          "title": "【早报】国常会最新部署，事关新一代通信网建设；中际旭创、东山精密、东方财富等发布半年报；加密货币持续走高",
-          "url": "https://www.cls.cn/detail/2461292",
+          "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
+          "url": "https://www.cls.cn/detail/2461262",
           "source": "财联社热门",
           "ranks": [
-            12,
-            3
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 09时07分]"
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 10时52分]"
         },
         {
           "title": "达利欧：债务危机逼近，建议卖出债券、买入黄金和比特币",
@@ -91,16 +105,16 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
-          "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
-          "url": "https://www.cls.cn/detail/2461262",
+          "title": "现货黄金重回4600美元 比特币一周狂涨逾20% | 环球市场",
+          "url": "https://www.cls.cn/detail/2461299",
           "source": "财联社热门",
           "ranks": [
-            13,
-            7
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 09时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 10时52分]"
         },
         {
           "title": "美债回购叠加政策利好 比特币本周飙升近25% 重返8万美元附近",
@@ -113,17 +127,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时23分 ~ 06时22分]"
-        },
-        {
-          "title": "现货黄金重回4600美元 比特币一周狂涨逾20% | 环球市场",
-          "url": "https://www.cls.cn/detail/2461299",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
         }
       ]
     },
@@ -232,11 +235,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 09时07分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 10时52分]"
         }
       ]
     }
