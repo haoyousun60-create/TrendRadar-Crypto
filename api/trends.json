@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T13:25:05.857206+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2026-08-22T14:36:36.142685+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时21分 ~ 13时25分]"
+          "appearance_count": 10,
+          "time_info": "[07时21分 ~ 14时36分]"
         },
         {
           "title": "美股止跌反弹，道指涨近1%，数字货币再猛涨，黄金升破4600",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时06分 ~ 13时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时06分 ~ 14时36分]"
         },
         {
           "title": "达利欧：美国债务危机最快三年内到来，建议卖出债券、买入黄金和比特币",
@@ -52,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时06分 ~ 13时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时06分 ~ 14时36分]"
         },
         {
           "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
@@ -67,8 +67,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 13时25分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 14时36分]"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
@@ -81,8 +81,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时21分 ~ 13时25分]"
+          "appearance_count": 10,
+          "time_info": "[07时21分 ~ 14时36分]"
+        },
+        {
+          "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
+          "url": "https://wallstreetcn.com/articles/3780041",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 14时36分]"
         },
         {
           "title": "现货黄金重回4600美元 比特币一周狂涨逾20% | 环球市场",
@@ -94,20 +107,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时06分 ~ 13时25分]"
-        },
-        {
-          "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
-          "url": "https://wallstreetcn.com/articles/3780041",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 13时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时06分 ~ 14时36分]"
         },
         {
           "title": "达利欧：债务危机逼近，建议卖出债券、买入黄金和比特币",
@@ -150,7 +151,7 @@
     },
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "洲际交易所（ICE）：8月18日当周，投机者所持ICE布伦特原油净多头头寸增加11,149手合约，至251,897手合约，创11周新高。 所持罗布斯塔咖啡净多头头寸创两个月新低。 所持白糖净多头头寸达到67,936手合约，创历史新高。 所持伦敦可可净空头头寸创七周新高。",
@@ -176,6 +177,28 @@
           "time_info": "03时25分"
         },
         {
+          "title": "8月21日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260822132409666800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "8月21日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260822132408216800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "洲际交易所（ICE）：截至8月18日当周，天然气投机者净多头头寸增加1807份合约，至92522份合约。",
           "url": "https://flash.jin10.com/detail/20260822013420991800",
           "source": "金十数据",
@@ -185,6 +208,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "8月21日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260822132406924800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "洲际交易所（ICE）：截至8月18日当周，布伦特原油投机者净多头头寸增加11149份合约，至251897份合约。",
