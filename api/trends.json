@@ -1,319 +1,77 @@
 {
-  "generated_at": "2026-08-22T23:19:05.544615+08:00",
-  "total_titles_processed": 1783,
+  "generated_at": "2026-08-23T00:21:10.496179+08:00",
+  "total_titles_processed": 317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 加密货币 加密货币 比特币 以太坊 Binance 币安 OKX 火币 虚拟货币 数字货币 blockchain crypto",
-      "match_count": 12,
+      "match_count": 6,
       "titles": [
         {
-          "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
-          "url": "https://wallstreetcn.com/articles/3779853",
+          "title": "达利欧：美国债务危机最快三年内到来，建议卖出债券、买入黄金和比特币",
+          "url": "https://wallstreetcn.com/articles/3780028",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 07时22分]"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
           "title": "美股止跌反弹，道指涨近1%，数字货币再猛涨，黄金升破4600",
           "url": "https://wallstreetcn.com/articles/3779986",
           "source": "华尔街见闻",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时06分 ~ 23时19分]"
-        },
-        {
-          "title": "达利欧：美国债务危机最快三年内到来，建议卖出债券、买入黄金和比特币",
-          "url": "https://wallstreetcn.com/articles/3780028",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时06分 ~ 23时19分]"
-        },
-        {
-          "title": "【早报】国常会最新部署，事关新一代通信网建设；中际旭创、东山精密、东方财富等发布半年报；加密货币持续走高",
-          "url": "https://www.cls.cn/detail/2461292",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[07时21分 ~ 23时19分]"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
           "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
           "url": "https://wallstreetcn.com/articles/3780041",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            5,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时40分 ~ 23时19分]"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2461060",
+          "title": "【早报】国常会最新部署，事关新一代通信网建设；中际旭创、东山精密、东方财富等发布半年报；加密货币持续走高",
+          "url": "https://www.cls.cn/detail/2461292",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6,
-            9,
-            10,
-            11,
-            12
+            3
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时31分 ~ 19时19分]"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
           "url": "https://www.cls.cn/detail/2461262",
           "source": "财联社热门",
           "ranks": [
-            13,
-            7,
-            9,
-            8,
             10
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[07时21分 ~ 23时19分]"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
           "title": "现货黄金重回4600美元 比特币一周狂涨逾20% | 环球市场",
           "url": "https://www.cls.cn/detail/2461299",
           "source": "财联社热门",
           "ranks": [
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时06分 ~ 23时19分]"
-        },
-        {
-          "title": "达利欧：债务危机逼近，建议卖出债券、买入黄金和比特币",
-          "url": "https://wallstreetcn.com/livenews/3153165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时25分]"
-        },
-        {
-          "title": "比特币逼近8万美元整数位心理关口，创2023年3月份以来最大单周涨幅",
-          "url": "https://wallstreetcn.com/livenews/3153238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时22分]"
-        },
-        {
-          "title": "美债回购叠加政策利好 比特币本周飙升近25% 重返8万美元附近",
-          "url": "https://www.cls.cn/detail/2461169",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时23分 ~ 06时22分]"
-        },
-        {
-          "title": "累跌超50% 比特币为何反弹",
-          "url": "https://www.toutiao.com/trending/7676767266427375123/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "洲际交易所（ICE）：8月18日当周，投机者所持ICE布伦特原油净多头头寸增加11,149手合约，至251,897手合约，创11周新高。 所持罗布斯塔咖啡净多头头寸创两个月新低。 所持白糖净多头头寸达到67,936手合约，创历史新高。 所持伦敦可可净空头头寸创七周新高。",
-          "url": "https://wallstreetcn.com/livenews/3153174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时25分]"
-        },
-        {
-          "title": "8月21日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-          "url": "https://flash.jin10.com/detail/20260822132409666800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 15时30分]"
-        },
-        {
-          "title": "8月21日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-          "url": "https://flash.jin10.com/detail/20260822132408216800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 15时30分]"
-        },
-        {
-          "title": "8月21日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-          "url": "https://flash.jin10.com/detail/20260822132406924800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 15时30分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 8月21日（周五）晚盘收盘上涨2.17%报999.0元/克；<br/>上海黄金交易所白银T+D 8月21日（周五）晚盘收盘上涨1.61%报16905.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260822023126585800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "洲际交易所（ICE）：截至8月18日当周，天然气投机者净多头头寸增加1807份合约，至92522份合约。",
-          "url": "https://flash.jin10.com/detail/20260822013420991800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "洲际交易所（ICE）：截至8月18日当周，布伦特原油投机者净多头头寸增加11149份合约，至251897份合约。",
-          "url": "https://flash.jin10.com/detail/20260822013403482800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至8月18日当周，纽约商品交易所（NYMEX）WTI原油期货投机者将净多头头寸减少3,584手，至102,274手。",
-          "url": "https://flash.jin10.com/detail/20260822033735459800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至8月18日当周，纽约商品交易所（NYMEX）和洲际交易所（ICE）天然气投机者将净空头头寸减少3,405手，至66,836份手。",
-          "url": "https://flash.jin10.com/detail/20260822033656379800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至8月18日当周，投机者将芝加哥期货交易所（CBOT）美国5年期国债期货净空头头寸增加33,349手，至1,274,105手。投机者将芝加哥期货交易所（CBOT）美国国债期货净空头头寸增加39,405手，至219,012手。投机者将芝加哥期货交易所（CBOT）美国超长期国债期货净空头头寸增加19,941手，至346,724手。",
-          "url": "https://flash.jin10.com/detail/20260822033336495800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至8月18日当周，投机者将芝加哥期货交易所（CBOT）10年期美国国债期货净空头头寸增加31,908手，至946,961手。投机者将芝加哥期货交易所（CBOT）2年期美国国债期货净空头头寸减少93,706手，至927,337手。",
-          "url": "https://flash.jin10.com/detail/20260822033158441800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "高盛前商品主管Jeff Currie：“海军换美元”走向破裂，大宗商品牛市迈向新阶段",
-          "url": "https://wallstreetcn.com/articles/3779976",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 13时25分]"
+          "time_info": "[00时20分 ~ 00时21分]"
         }
       ]
     }
