@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T12:31:33.864202+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-08-22T13:25:05.857206+08:00",
+  "total_titles_processed": 1076,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,43 @@
           "time_info": "[00时31分 ~ 07时22分]"
         },
         {
+          "title": "【早报】国常会最新部署，事关新一代通信网建设；中际旭创、东山精密、东方财富等发布半年报；加密货币持续走高",
+          "url": "https://www.cls.cn/detail/2461292",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时21分 ~ 13时25分]"
+        },
+        {
+          "title": "美股止跌反弹，道指涨近1%，数字货币再猛涨，黄金升破4600",
+          "url": "https://wallstreetcn.com/articles/3779986",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时06分 ~ 13时25分]"
+        },
+        {
+          "title": "达利欧：美国债务危机最快三年内到来，建议卖出债券、买入黄金和比特币",
+          "url": "https://wallstreetcn.com/articles/3780028",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时06分 ~ 13时25分]"
+        },
+        {
           "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2461060",
           "source": "财联社热门",
@@ -30,44 +67,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 12时31分]"
-        },
-        {
-          "title": "【早报】国常会最新部署，事关新一代通信网建设；中际旭创、东山精密、东方财富等发布半年报；加密货币持续走高",
-          "url": "https://www.cls.cn/detail/2461292",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 12时31分]"
-        },
-        {
-          "title": "美股止跌反弹，道指涨近1%，数字货币再猛涨，黄金升破4600",
-          "url": "https://wallstreetcn.com/articles/3779986",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时06分 ~ 12时31分]"
-        },
-        {
-          "title": "达利欧：美国债务危机最快三年内到来，建议卖出债券、买入黄金和比特币",
-          "url": "https://wallstreetcn.com/articles/3780028",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时06分 ~ 12时31分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 13时25分]"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
@@ -76,11 +77,12 @@
           "ranks": [
             13,
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 12时31分]"
+          "appearance_count": 9,
+          "time_info": "[07时21分 ~ 13时25分]"
         },
         {
           "title": "现货黄金重回4600美元 比特币一周狂涨逾20% | 环球市场",
@@ -88,11 +90,24 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时06分 ~ 12时31分]"
+          "appearance_count": 7,
+          "time_info": "[09时06分 ~ 13时25分]"
+        },
+        {
+          "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
+          "url": "https://wallstreetcn.com/articles/3780041",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 13时25分]"
         },
         {
           "title": "达利欧：债务危机逼近，建议卖出债券、买入黄金和比特币",
@@ -118,18 +133,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时22分]"
-        },
-        {
-          "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
-          "url": "https://wallstreetcn.com/articles/3780041",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时31分]"
         },
         {
           "title": "美债回购叠加政策利好 比特币本周飙升近25% 重返8万美元附近",
@@ -255,8 +258,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 12时31分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 13时25分]"
         }
       ]
     }
