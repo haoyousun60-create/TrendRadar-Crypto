@@ -1,8 +1,59 @@
 {
-  "generated_at": "2026-08-25T14:42:39.050453+08:00",
-  "total_titles_processed": 1306,
+  "generated_at": "2026-08-25T15:42:30.448147+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 8月25日（周二）收盘上涨0.13%报1001.14元/克；<br/>上海黄金交易所白银T+D 8月25日（周二）收盘下跌1.36%报16550.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260825153034891800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "模块化电力公司Aggreko递交IPO申请，寻求以“AGKO”为代码在纽约证券交易所上市。",
+          "url": "https://flash.jin10.com/detail/20260825042913378800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时24分]"
+        },
+        {
+          "title": "据伊通社（IRNA）：开盘不到一小时，德黑兰证券交易所综合指数上涨逾10万点，突破历史性的620万点。",
+          "url": "https://flash.jin10.com/detail/20260825142533671800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 8月24日（周一）晚盘收盘上涨0.09%报1000.78元/克；<br/>上海黄金交易所白银T+D 8月24日（周一）晚盘收盘下跌0.74%报16655.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260825023041735800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        }
+      ]
+    },
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
       "match_count": 4,
@@ -68,8 +119,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 14时42分]"
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 15时42分]"
         },
         {
           "title": "比特币价格自5月中旬以来首次突破8万美元大关。",
@@ -93,46 +144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "模块化电力公司Aggreko递交IPO申请，寻求以“AGKO”为代码在纽约证券交易所上市。",
-          "url": "https://flash.jin10.com/detail/20260825042913378800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时24分]"
-        },
-        {
-          "title": "据伊通社（IRNA）：开盘不到一小时，德黑兰证券交易所综合指数上涨逾10万点，突破历史性的620万点。",
-          "url": "https://flash.jin10.com/detail/20260825142533671800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 8月24日（周一）晚盘收盘上涨0.09%报1000.78元/克；<br/>上海黄金交易所白银T+D 8月24日（周一）晚盘收盘下跌0.74%报16655.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260825023041735800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
         }
       ]
     }
