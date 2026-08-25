@@ -1,132 +1,44 @@
 {
-  "generated_at": "2026-08-25T23:41:01.525918+08:00",
-  "total_titles_processed": 2278,
+  "generated_at": "2026-08-26T00:36:32.669234+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 7,
+      "keyword_group": "# 加密货币 加密货币 比特币 以太坊 Binance 币安 OKX 火币 虚拟货币 数字货币 blockchain crypto",
+      "match_count": 4,
       "titles": [
         {
-          "title": "上海黄金交易所黄金T+D 8月25日（周二）收盘上涨0.13%报1001.14元/克；<br/>上海黄金交易所白银T+D 8月25日（周二）收盘下跌1.36%报16550.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260825153034891800",
-          "source": "金十数据",
+          "title": "加密相关股票上涨，比特币攀升至5月以来最高水平",
+          "url": "https://wallstreetcn.com/livenews/3154788",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时42分"
+          "time_info": "00时36分"
         },
-        {
-          "title": "模块化电力公司Aggreko递交IPO申请，寻求以“AGKO”为代码在纽约证券交易所上市。",
-          "url": "https://flash.jin10.com/detail/20260825042913378800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时24分]"
-        },
-        {
-          "title": "港交所文件：汇丰控股(00005.HK)于8月24日在其他交易所回购总计10,000股，耗资152,111.68英镑。",
-          "url": "https://flash.jin10.com/detail/20260825172247706800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
-          "title": "据伊通社（IRNA）：开盘不到一小时，德黑兰证券交易所综合指数上涨逾10万点，突破历史性的620万点。",
-          "url": "https://flash.jin10.com/detail/20260825142533671800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "伦敦金属交易所（LME）：锌库存增加1800吨，锡库存减少75吨，镍库存增加120吨，铜库存减少1525吨，铝库存减少100吨，铅库存减少3600吨。",
-          "url": "https://wallstreetcn.com/livenews/3154445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
-          "title": "飞乐音响：拟通过在上海联合产权交易所非公开协议交易方式，以4,350万元的交易价格受让上海仪电信息网络有限公司持有的上海云瀚科技股份有限公司75%股权。",
-          "url": "https://wallstreetcn.com/livenews/3154542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 8月24日（周一）晚盘收盘上涨0.09%报1000.78元/克；<br/>上海黄金交易所白银T+D 8月24日（周一）晚盘收盘下跌0.74%报16655.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260825023041735800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 加密货币 加密货币 比特币 以太坊 Binance 币安 OKX 火币 虚拟货币 数字货币 blockchain crypto",
-      "match_count": 6,
-      "titles": [
         {
           "title": "贝森特欲动TGA万亿买债，油价债息双降，AI硬件续崩英伟达七连跌，黄金美元比特币齐涨",
           "url": "https://wallstreetcn.com/articles/3780114",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[07时20分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
           "title": "美债收益率回落 美股期指上涨 比特币触及8万美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2463960",
           "source": "财联社热门",
           "ranks": [
-            9,
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时48分 ~ 23时41分]"
-        },
-        {
-          "title": "比特币突破8万美元 加密货币涨势加速",
-          "url": "https://www.toutiao.com/trending/7677845199539782153/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 18时31分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
           "title": "市场情绪谨慎回暖，美股高开，存储概念股反弹，SK海力士涨3％，比特币回落，美债收益率下行",
@@ -136,94 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时40分 ~ 23时41分]"
-        },
-        {
-          "title": "比特币价格自5月中旬以来首次突破8万美元大关。",
-          "url": "https://wallstreetcn.com/livenews/3154293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 11时48分]"
-        },
-        {
-          "title": "比特币价格自5月以来首次触及8万美元",
-          "url": "https://wallstreetcn.com/livenews/3154084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "科技股拖累全球股市，美股开盘涨跌互现，纳指跌0.4%，存储芯片、光通信股下挫，金涨油跌",
-          "url": "https://wallstreetcn.com/articles/3780114",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时24分]"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异，布油基金跌1.9%，黄金ETF涨 约0.8%",
-          "url": "https://wallstreetcn.com/livenews/3154159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时24分]"
-        },
-        {
-          "title": "周一（8月24日），美股行业ETF涨跌各异，半导体ETF收跌2.43%，全球科技股指数ETF、科技行业ETF至多跌1.94%，能源业ETF跌0.83%。",
-          "url": "https://wallstreetcn.com/livenews/3154153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时24分]"
-        },
-        {
-          "title": "大商所调整原木等期货合约涨跌停板幅度和交易保证金水平",
-          "url": "https://wallstreetcn.com/livenews/3154448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 存储概念走弱",
-          "url": "https://flash.jin10.com/detail/20260825040150769800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
+          "time_info": "00时36分"
         }
       ]
     }
