@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T22:43:00.167259+08:00",
-  "total_titles_processed": 2193,
+  "generated_at": "2026-08-25T23:41:01.525918+08:00",
+  "total_titles_processed": 2278,
   "failed_sources": [],
   "trends": [
     {
@@ -89,7 +89,7 @@
     },
     {
       "keyword_group": "# 加密货币 加密货币 比特币 以太坊 Binance 币安 OKX 火币 虚拟货币 数字货币 blockchain crypto",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "贝森特欲动TGA万亿买债，油价债息双降，AI硬件续崩英伟达七连跌，黄金美元比特币齐涨",
@@ -101,8 +101,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[07时20分 ~ 22时43分]"
+          "appearance_count": 23,
+          "time_info": "[07时20分 ~ 23时41分]"
         },
         {
           "title": "美债收益率回落 美股期指上涨 比特币触及8万美元 | 今夜看点",
@@ -113,8 +113,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时48分 ~ 22时43分]"
+          "appearance_count": 5,
+          "time_info": "[21时48分 ~ 23时41分]"
         },
         {
           "title": "比特币突破8万美元 加密货币涨势加速",
@@ -127,6 +127,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时34分 ~ 18时31分]"
+        },
+        {
+          "title": "市场情绪谨慎回暖，美股高开，存储概念股反弹，SK海力士涨3％，比特币回落，美债收益率下行",
+          "url": "https://wallstreetcn.com/articles/3780215",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
         },
         {
           "title": "比特币价格自5月中旬以来首次突破8万美元大关。",
