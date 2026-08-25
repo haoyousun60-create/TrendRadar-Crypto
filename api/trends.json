@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T16:40:02.129344+08:00",
-  "total_titles_processed": 1520,
+  "generated_at": "2026-08-25T17:34:58.831933+08:00",
+  "total_titles_processed": 1627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 8月25日（周二）收盘上涨0.13%报1001.14元/克；<br/>上海黄金交易所白银T+D 8月25日（周二）收盘下跌1.36%报16550.0元/千克。",
@@ -31,6 +31,17 @@
           "time_info": "[05时27分 ~ 06时24分]"
         },
         {
+          "title": "港交所文件：汇丰控股(00005.HK)于8月24日在其他交易所回购总计10,000股，耗资152,111.68英镑。",
+          "url": "https://flash.jin10.com/detail/20260825172247706800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "据伊通社（IRNA）：开盘不到一小时，德黑兰证券交易所综合指数上涨逾10万点，突破历史性的620万点。",
           "url": "https://flash.jin10.com/detail/20260825142533671800",
           "source": "金十数据",
@@ -48,7 +59,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -111,7 +122,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -130,7 +141,7 @@
     },
     {
       "keyword_group": "# 加密货币 加密货币 比特币 以太坊 Binance 币安 OKX 火币 虚拟货币 数字货币 blockchain crypto",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "贝森特欲动TGA万亿买债，油价债息双降，AI硬件续崩英伟达七连跌，黄金美元比特币齐涨",
@@ -141,8 +152,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时20分 ~ 16时40分]"
+          "appearance_count": 12,
+          "time_info": "[07时20分 ~ 17时34分]"
         },
         {
           "title": "比特币价格自5月中旬以来首次突破8万美元大关。",
@@ -155,6 +166,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时57分 ~ 11时48分]"
+        },
+        {
+          "title": "比特币突破8万美元 加密货币涨势加速",
+          "url": "https://www.toutiao.com/trending/7677845199539782153/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "比特币价格自5月以来首次触及8万美元",
