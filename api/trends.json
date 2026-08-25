@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T01:31:20.829935+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-08-26T02:37:30.618445+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时37分]"
         },
         {
           "title": "加密相关股票上涨，比特币攀升至5月以来最高水平",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时37分]"
         },
         {
           "title": "美债收益率回落 美股期指上涨 比特币触及8万美元 | 今夜看点",
@@ -38,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时37分]"
         },
         {
           "title": "市场情绪谨慎回暖，美股高开，存储概念股反弹，SK海力士涨3％，比特币回落，美债收益率下行",
@@ -49,15 +50,26 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时37分]"
         }
       ]
     },
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 8月25日（周二）晚盘收盘下跌0.11%报1003.39元/克；<br/>上海黄金交易所白银T+D 8月25日（周二）晚盘收盘上涨0.72%报16749.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260826023047263800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
         {
           "title": "伊朗能源交易所：进口超级汽油最新成交价约每升9万土曼",
           "url": "https://flash.jin10.com/detail/20260826003500556800",
@@ -65,7 +77,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         }
