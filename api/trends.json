@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T18:31:24.051836+08:00",
-  "total_titles_processed": 1751,
+  "generated_at": "2026-08-25T19:26:12.653254+08:00",
+  "total_titles_processed": 1849,
   "failed_sources": [],
   "trends": [
     {
@@ -70,7 +70,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -163,8 +163,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时20分 ~ 18时31分]"
+          "appearance_count": 16,
+          "time_info": "[07时20分 ~ 19时26分]"
         },
         {
           "title": "比特币突破8万美元 加密货币涨势加速",
