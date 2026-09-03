@@ -1,115 +1,39 @@
 {
-  "generated_at": "2026-09-03T20:37:13.447484+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2026-09-04T00:57:29.195557+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "AI牛市挑战传统定义：指数跌20%还能算“熊市”吗？",
-          "url": "https://www.cls.cn/detail/2472446",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时31分 ~ 10时59分]"
-        },
-        {
-          "title": "油价涨势暂歇缓解通胀担忧，美股开盘涨跌互现，戴尔涨超8%，美元走低",
-          "url": "https://wallstreetcn.com/articles/3780885",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 05时37分]"
-        },
-        {
-          "title": "2026手机价格涨跌统计",
-          "url": "https://search.bilibili.com/all?keyword=2026%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%E6%B6%A8%E8%B7%8C%E7%BB%9F%E8%AE%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
-        },
-        {
-          "title": "欧股开盘涨跌不一，德国DAX指数涨0.04%，英国富时100指数涨0.12%，法国CAC40指数跌0.01%，欧洲斯托克50指数涨0.05%。",
-          "url": "https://wallstreetcn.com/livenews/3159723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "美国芝加哥商业交易所集团（CME Group）：美国天然气期货流通合约创历史新高。 9月1日当天，基准Henery Hub天然气期货未平仓合约达到180.7万手，突破2024年11月所创历史最高记录180.1万手合约。",
-          "url": "https://wallstreetcn.com/livenews/3159464",
-          "source": "华尔街见闻-快讯",
+          "title": "沙特阿拉伯将10月销往西北欧的阿拉伯轻质原油官方售价定为较洲际交易所布伦特原油结算价贴水2.15美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260904000904780800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 9月3日（周四）收盘上涨2.27%报957.13元/克；<br/>上海黄金交易所白银T+D 9月3日（周四）收盘上涨2.7%报16040.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260903153035360800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 9月3日（周四）晚盘盘初上涨2.27%报957.13元/克；<br/>上海黄金交易所白银T+D 9月3日（周四）晚盘盘初上涨0.21%报16018.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260903200057750800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
+          "time_info": "00时57分"
         }
       ]
     },
     {
-      "keyword_group": "# 加密货币 加密货币 比特币 以太坊 Binance 币安 OKX 火币 虚拟货币 数字货币 blockchain crypto",
+      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
       "match_count": 1,
       "titles": [
         {
-          "title": "六成跌去90%以上，曾经的热门加密货币如今怎样了?",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33993739",
-          "source": "澎湃新闻",
+          "title": "日元汇率大幅反弹 美股三大期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2473472",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            20
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时52分 ~ 20时37分]"
+          "appearance_count": 1,
+          "time_info": "00时57分"
         }
       ]
     }
