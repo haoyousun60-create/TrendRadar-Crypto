@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-05T02:06:34.105016+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-09-05T05:15:15.363759+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "洲际交易所：截至9月1日当周，汽油投机者增持769份合约，净多头头寸达到90,068份合约。",
@@ -17,12 +17,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：9月1日当周，投机者将芝加哥期货交易所美国超长期国债期货净空头头寸削减36734手，至369311手。",
+          "url": "https://wallstreetcn.com/livenews/3160777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         }
       ]
     },
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国8月非农大超预期 美股三大期指涨跌不一 | 今夜看点",
@@ -32,8 +43,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时06分 ~ 05时15分]"
+        },
+        {
+          "title": "周五（9月4日），美股行业ETF涨跌各异，半导体ETF收涨2.6%，全球科技股指数ETF涨1.21%，科技行业ETF涨0.72%，网络股指数ETF、能源业ETF跌0.87%，可选消费ETF跌1.33%。",
+          "url": "https://wallstreetcn.com/livenews/3160788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "05时15分"
         }
       ]
     }
