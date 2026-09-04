@@ -1,40 +1,23 @@
 {
-  "generated_at": "2026-09-04T18:36:55.183706+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2026-09-04T22:48:18.523415+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 2,
+      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
+      "match_count": 3,
       "titles": [
         {
-          "title": "据港交所文件：渣打集团(02888.HK)于9月3日在其他交易所回购总计367,573股，金额为810万英镑。",
-          "url": "https://flash.jin10.com/detail/20260904181420620800",
-          "source": "金十数据",
+          "title": "美国8月非农大超预期 美股三大期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2474660",
+          "source": "财联社热门",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时36分"
+          "time_info": "22时48分"
         },
-        {
-          "title": "沙特阿拉伯将10月销往西北欧的阿拉伯轻质原油官方售价定为较洲际交易所布伦特原油结算价贴水2.15美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260904000904780800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 2,
-      "titles": [
         {
           "title": "黄金下一波牛市要来了？专家：年内还能涨30%，“鹰派FED”光说不做！",
           "url": "https://www.cls.cn/detail/2474109",
@@ -42,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -58,6 +41,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时57分 ~ 08时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据港交所文件：渣打集团(02888.HK)于9月3日在其他交易所回购总计367,573股，金额为810万英镑。",
+          "url": "https://flash.jin10.com/detail/20260904181420620800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "沙特阿拉伯将10月销往西北欧的阿拉伯轻质原油官方售价定为较洲际交易所布伦特原油结算价贴水2.15美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260904000904780800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时57分"
         }
       ]
     },
