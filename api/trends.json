@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T15:33:05.795786+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-09-05T19:39:17.397117+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         }
@@ -88,8 +88,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时06分 ~ 15时33分]"
+          "appearance_count": 9,
+          "time_info": "[02时06分 ~ 19时39分]"
         },
         {
           "title": "周五（9月4日），美股行业ETF涨跌各异，半导体ETF收涨2.6%，全球科技股指数ETF涨1.21%，科技行业ETF涨0.72%，网络股指数ETF、能源业ETF跌0.87%，可选消费ETF跌1.33%。",
