@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T03:57:13.199312+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-09-06T05:57:43.345326+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时57分]"
         },
         {
           "title": "高盛交易台主管：OpenAI的Astra模型“脱颖而出”，这正是“AI牛市一直在等的”",
           "url": "https://wallstreetcn.com/articles/3781148",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时57分]"
         }
       ]
     }
