@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-09-06T05:57:43.345326+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-09-06T07:37:07.599446+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
       "match_count": 2,
       "titles": [
+        {
+          "title": "高盛交易台主管：OpenAI的Astra模型“脱颖而出”，这正是“AI牛市一直在等的”",
+          "url": "https://wallstreetcn.com/articles/3781148",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 07时37分]"
+        },
         {
           "title": "美国8月非农大超预期 美股三大期指涨跌不一 | 今夜看点",
           "url": "https://www.cls.cn/detail/2474660",
@@ -15,20 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 05时57分]"
-        },
-        {
-          "title": "高盛交易台主管：OpenAI的Astra模型“脱颖而出”，这正是“AI牛市一直在等的”",
-          "url": "https://wallstreetcn.com/articles/3781148",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 05时57分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 07时37分]"
         }
       ]
     }
