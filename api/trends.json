@@ -1,136 +1,33 @@
 {
-  "generated_at": "2026-09-05T22:36:38.974337+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-09-06T01:09:50.472837+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "洲际交易所：截至9月1日当周，汽油投机者增持769份合约，净多头头寸达到90,068份合约。",
-          "url": "https://flash.jin10.com/detail/20260905013444458800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "德黑兰证券交易所主指数上涨12万点",
-          "url": "https://flash.jin10.com/detail/20260905140557720800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：9月1日当周，投机者将芝加哥期货交易所美国超长期国债期货净空头头寸削减36734手，至369311手。",
-          "url": "https://wallstreetcn.com/livenews/3160777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "9月4日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-          "url": "https://flash.jin10.com/detail/20260905133156548800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "9月4日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-          "url": "https://flash.jin10.com/detail/20260905133142560800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "9月4日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-          "url": "https://flash.jin10.com/detail/20260905133136413800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国8月非农大超预期 美股三大期指涨跌不一 | 今夜看点",
           "url": "https://www.cls.cn/detail/2474660",
           "source": "财联社热门",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时06分 ~ 22时36分]"
-        },
-        {
-          "title": "周五（9月4日），美股行业ETF涨跌各异，半导体ETF收涨2.6%，全球科技股指数ETF涨1.21%，科技行业ETF涨0.72%，网络股指数ETF、能源业ETF跌0.87%，可选消费ETF跌1.33%。",
-          "url": "https://wallstreetcn.com/livenews/3160788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 07时44分]"
+          "appearance_count": 1,
+          "time_info": "01时09分"
         },
         {
           "title": "高盛交易台主管：OpenAI的Astra模型“脱颖而出”，这正是“AI牛市一直在等的”",
           "url": "https://wallstreetcn.com/articles/3781148",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 加密货币 加密货币 比特币 以太坊 Binance 币安 OKX 火币 虚拟货币 数字货币 blockchain crypto",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股加密货币与加密货币关联指数跌0.08%，报75.46点，本周累计上涨12.05%，8月31日至9月2日大致持平于67点附近，9月3日早盘显著上涨，之后高位持稳。 最近24小时，比特币跌1.96%，暂报79855.75美元，美国非农就业报告发布后从81000美元上方跳水、一度跌穿78650美元，上周五结束交易以来累计上涨3.14%，9月3日涨幅突出。 以太坊跌1.97%，暂报2455.927美元，非农带来一波显著的跳水行情，最近七天累涨1.23%。",
-          "url": "https://wallstreetcn.com/livenews/3160805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            27
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 10时58分]"
+          "appearance_count": 1,
+          "time_info": "01时09分"
         }
       ]
     }
