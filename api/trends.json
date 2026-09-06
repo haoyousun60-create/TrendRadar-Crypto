@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T07:37:07.599446+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-09-06T10:58:34.613166+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 07时37分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 10时58分]"
         },
         {
           "title": "美国8月非农大超预期 美股三大期指涨跌不一 | 今夜看点",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 07时37分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 10时58分]"
         }
       ]
     }
