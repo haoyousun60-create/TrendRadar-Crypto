@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T05:34:53.782266+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-09-09T07:50:42.508227+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 05时34分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 07时50分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，黄金ETF收跌超1.7%，日元ETF涨超1.5%，布油基金涨约2.9%",
@@ -48,7 +49,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         }
@@ -65,7 +66,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         }
