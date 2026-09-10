@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-10T13:36:43.881077+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2026-09-10T18:38:59.728780+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "9月9日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
@@ -14,7 +14,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         },
@@ -36,9 +36,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
+        },
+        {
+          "title": "香港金管局、香港交易所、迪拜金管局和纳斯达克迪拜成立策略工作小组深化两地金融市场合作",
+          "url": "https://flash.jin10.com/detail/20260910182215401800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         }
       ]
     },
@@ -64,7 +75,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         }
