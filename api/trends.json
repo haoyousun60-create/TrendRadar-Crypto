@@ -1,55 +1,7 @@
 {
-  "generated_at": "2026-09-13T21:40:36.771525+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2026-09-14T01:16:33.978273+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "高盛最新判断：利率上升≠美股下跌，盈利增长才是牛市关键",
-          "url": "https://wallstreetcn.com/articles/3781632",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时18分 ~ 11时12分]"
-        },
-        {
-          "title": "本轮AI牛市两大“网红”合并！SemiAnalysis收购Citrini",
-          "url": "https://wallstreetcn.com/articles/3781619",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "分析师：韩国交易所下周试水晚间交易，将检验全球需求",
-          "url": "https://flash.jin10.com/detail/20260913103431166800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时12分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
