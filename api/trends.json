@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T07:45:09.743610+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-09-13T11:12:11.538305+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时18分 ~ 07时45分]"
+          "appearance_count": 6,
+          "time_info": "[05时18分 ~ 11时12分]"
         },
         {
           "title": "本轮AI牛市两大“网红”合并！SemiAnalysis收购Citrini",
@@ -29,6 +30,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时44分 ~ 07时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "分析师：韩国交易所下周试水晚间交易，将检验全球需求",
+          "url": "https://flash.jin10.com/detail/20260913103431166800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
         }
       ]
     }
