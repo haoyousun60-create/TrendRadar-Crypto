@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T00:16:48.944656+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-09-16T04:01:24.292369+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
@@ -9,14 +9,27 @@
       "titles": [
         {
           "title": "李大霄：A股牛市已经告一段落",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%A4%A7%E9%9C%84%EF%BC%9AA%E8%82%A1%E7%89%9B%E5%B8%82%E5%B7%B2%E7%BB%8F%E5%91%8A%E4%B8%80%E6%AE%B5%E8%90%BD",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时01分]"
+        },
+        {
+          "title": "李大霄：A股牛市已经告一段落",
           "url": "https://www.toutiao.com/trending/7685669070485720614/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时01分]"
         },
         {
           "title": "内盘期货涨跌各异，乙二醇收涨将近4.5%，燃油涨超1.5%，PVC跌2%",
@@ -24,17 +37,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "李大霄：A股牛市已经告一段落",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%A4%A7%E9%9C%84%EF%BC%9AA%E8%82%A1%E7%89%9B%E5%B8%82%E5%B7%B2%E7%BB%8F%E5%91%8A%E4%B8%80%E6%AE%B5%E8%90%BD",
-          "source": "百度热搜",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 1,
