@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T05:30:09.587303+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-09-15T08:18:01.783098+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "url": "https://wallstreetcn.com/articles/3781717",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 05时30分]"
+          "appearance_count": 5,
+          "time_info": "[01时43分 ~ 08时18分]"
         },
         {
           "title": "周一（9月14日），美股行业ETF涨跌各异，半导体ETF收跌4.75%，全球科技股指数ETF跌2.46%，科技行业ETF跌1.81%，能源业ETF跌0.94%，金融业ETF跌0.38%，日常消费品ETF涨1.25%，网络股指数ETF涨1.31%，医疗业ETF涨1.45%。",
@@ -53,7 +54,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         }
@@ -70,7 +71,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         }
