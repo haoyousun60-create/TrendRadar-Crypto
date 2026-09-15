@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T04:01:24.292369+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-09-16T06:51:30.307284+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 06时51分]"
         },
         {
           "title": "李大霄：A股牛市已经告一段落",
@@ -25,11 +26,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 06时51分]"
         },
         {
           "title": "内盘期货涨跌各异，乙二醇收涨将近4.5%，燃油涨超1.5%，PVC跌2%",
@@ -41,6 +43,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 加密货币 加密货币 比特币 以太坊 Binance 币安 OKX 火币 虚拟货币 数字货币 blockchain crypto",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股加密货币与加密货币关联指数收跌6.62%，报68.81点，整体低开低走。 最近24小时，现货比特币跌4.05%，暂报75880美元，整体持续走低，美国参议院针对加密货币立法草案的程序性投票失败之后，出现一波加速下跌行情。 现货以太坊跌6.26%，暂报2405.645美元，整体持续走低。",
+          "url": "https://wallstreetcn.com/livenews/3165751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "波罗的海交易所数据显示，截至周二，租用一艘超大型油轮将200万桶美国墨西哥湾原油运往亚洲的成本约为4480万美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3165761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         }
       ]
     }
