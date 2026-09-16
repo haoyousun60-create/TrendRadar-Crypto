@@ -1,90 +1,8 @@
 {
-  "generated_at": "2026-09-16T21:08:50.898847+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2026-09-17T01:59:07.411094+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "印尼计划1月4日在大宗商品交易所启动交易，首先交易的将是锡。",
-          "url": "https://wallstreetcn.com/livenews/3165829",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "越南交易所：越南在政府债券拍卖中筹集了5.6403亿美元。",
-          "url": "https://flash.jin10.com/detail/20260916144254408800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "波罗的海交易所数据显示，截至周二，租用一艘超大型油轮将200万桶美国墨西哥湾原油运往亚洲的成本约为4480万美元，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3165761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "李大霄：A股牛市已经告一段落",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%A4%A7%E9%9C%84%EF%BC%9AA%E8%82%A1%E7%89%9B%E5%B8%82%E5%B7%B2%E7%BB%8F%E5%91%8A%E4%B8%80%E6%AE%B5%E8%90%BD",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 06时51分]"
-        },
-        {
-          "title": "李大霄：A股牛市已经告一段落",
-          "url": "https://www.toutiao.com/trending/7685669070485720614/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 06时51分]"
-        },
-        {
-          "title": "内盘期货涨跌各异，乙二醇收涨将近4.5%，燃油涨超1.5%，PVC跌2%",
-          "url": "https://wallstreetcn.com/livenews/3165629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        }
-      ]
-    },
     {
       "keyword_group": "# 加密货币 加密货币 比特币 以太坊 Binance 币安 OKX 火币 虚拟货币 数字货币 blockchain crypto",
       "match_count": 2,
@@ -94,24 +12,22 @@
           "url": "https://wallstreetcn.com/articles/3781823",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            4,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 21时08分]"
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
         },
         {
-          "title": "美股加密货币与加密货币关联指数收跌6.62%，报68.81点，整体低开低走。 最近24小时，现货比特币跌4.05%，暂报75880美元，整体持续走低，美国参议院针对加密货币立法草案的程序性投票失败之后，出现一波加速下跌行情。 现货以太坊跌6.26%，暂报2405.645美元，整体持续走低。",
-          "url": "https://wallstreetcn.com/livenews/3165751",
+          "title": "美国证券交易委员会（SEC）主席Atkins：SEC将采取行动，针对加密货币提供确定性。",
+          "url": "https://wallstreetcn.com/livenews/3166384",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时51分"
+          "time_info": "01时59分"
         }
       ]
     }
