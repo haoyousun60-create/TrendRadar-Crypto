@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T15:14:52.464442+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2026-09-16T21:08:50.898847+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -95,11 +95,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 15时14分]"
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 21时08分]"
         },
         {
           "title": "美股加密货币与加密货币关联指数收跌6.62%，报68.81点，整体低开低走。 最近24小时，现货比特币跌4.05%，暂报75880美元，整体持续走低，美国参议院针对加密货币立法草案的程序性投票失败之后，出现一波加速下跌行情。 现货以太坊跌6.26%，暂报2405.645美元，整体持续走低。",
