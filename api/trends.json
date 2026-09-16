@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-09-16T09:06:39.501063+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2026-09-16T15:14:52.464442+08:00",
+  "total_titles_processed": 893,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "印尼计划1月4日在大宗商品交易所启动交易，首先交易的将是锡。",
+          "url": "https://wallstreetcn.com/livenews/3165829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "越南交易所：越南在政府债券拍卖中筹集了5.6403亿美元。",
+          "url": "https://flash.jin10.com/detail/20260916144254408800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "波罗的海交易所数据显示，截至周二，租用一艘超大型油轮将200万桶美国墨西哥湾原油运往亚洲的成本约为4480万美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3165761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        }
+      ]
+    },
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
       "match_count": 3,
@@ -55,11 +94,12 @@
           "url": "https://wallstreetcn.com/articles/3781823",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时06分 ~ 15时14分]"
         },
         {
           "title": "美股加密货币与加密货币关联指数收跌6.62%，报68.81点，整体低开低走。 最近24小时，现货比特币跌4.05%，暂报75880美元，整体持续走低，美国参议院针对加密货币立法草案的程序性投票失败之后，出现一波加速下跌行情。 现货以太坊跌6.26%，暂报2405.645美元，整体持续走低。",
@@ -67,34 +107,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "印尼计划1月4日在大宗商品交易所启动交易，首先交易的将是锡。",
-          "url": "https://wallstreetcn.com/livenews/3165829",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "波罗的海交易所数据显示，截至周二，租用一艘超大型油轮将200万桶美国墨西哥湾原油运往亚洲的成本约为4480万美元，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3165761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 1,
