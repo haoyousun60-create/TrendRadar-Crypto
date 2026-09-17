@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T05:07:10.652504+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-09-17T08:05:49.527122+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 05时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 08时05分]"
         },
         {
           "title": "美国证券交易委员会（SEC）主席Atkins：SEC将采取行动，针对加密货币提供确定性。",
