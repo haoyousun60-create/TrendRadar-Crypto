@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T13:45:09.182587+08:00",
-  "total_titles_processed": 778,
+  "generated_at": "2026-09-17T18:59:10.500855+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股牛市走到头了？全球最强主权基金重磅示警：回调将至！",
+          "url": "https://www.cls.cn/detail/2485768",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 18时59分]"
         }
       ]
     }
