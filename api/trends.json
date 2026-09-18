@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T03:27:42.002062+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-09-19T06:18:26.330567+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
         }
@@ -33,8 +33,19 @@
     },
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美债再度承压，美股盘初涨跌互现，纳指涨0.4%，日元下跌，WTI油价小幅转涨",
+          "url": "https://wallstreetcn.com/articles/3782058",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
         {
           "title": "内盘期货夜市涨跌各异，纸浆涨超2.8%，焦煤、焦炭跌约0.9%",
           "url": "https://wallstreetcn.com/livenews/3167390",
