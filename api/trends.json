@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T06:41:42.254930+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-09-18T09:02:19.415092+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2486299",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 06时41分]"
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 09时02分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 9月17日（周四）晚盘收盘上涨1.2%报941.93元/克；<br/>上海黄金交易所白银T+D 9月17日（周四）晚盘收盘上涨2.84%报15951.0元/千克。",
