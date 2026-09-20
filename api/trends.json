@@ -1,28 +1,11 @@
 {
-  "generated_at": "2026-09-20T13:44:24.532993+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-09-20T18:39:00.123944+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场监管总局：研究制定网络交易平台合规评价指南，加快国家网监平台建设应用",
-          "url": "https://wallstreetcn.com/livenews/3167770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "电影《生化危机：爆发夜》确认引进，快递小哥误入浣熊市怪物爆发夜，你对这部回归生存恐怖的新作有何期待？",
@@ -34,6 +17,35 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时46分 ~ 04时03分]"
+        },
+        {
+          "title": "A股或迎牛市第三阶段 普通人怎么应对",
+          "url": "https://www.toutiao.com/trending/7687484876357897755/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 18时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场监管总局：研究制定网络交易平台合规评价指南，加快国家网监平台建设应用",
+          "url": "https://wallstreetcn.com/livenews/3167770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 18时39分]"
         }
       ]
     }
