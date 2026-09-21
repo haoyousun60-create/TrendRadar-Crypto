@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-21T14:01:55.371187+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-09-21T20:39:58.140445+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "德黑兰证券交易所综合指数盘初上涨2.2万点，升至731.3万点。",
@@ -14,9 +14,37 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
+        },
+        {
+          "title": "香港交易所拟进一步优化上市规则，须股东批准的主要交易门槛由25%提高至50%",
+          "url": "https://wallstreetcn.com/livenews/3168296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "这轮牛市结束了吗",
+          "url": "https://www.toutiao.com/trending/7687915741391113782/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         }
       ]
     }
