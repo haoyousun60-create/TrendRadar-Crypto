@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-09-21T08:59:12.668056+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-09-21T14:01:55.371187+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "德黑兰证券交易所综合指数盘初上涨2.2万点，升至731.3万点。",
+          "url": "https://flash.jin10.com/detail/20260921134845442800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
