@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T11:22:24.772347+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2026-09-23T17:05:28.795223+08:00",
+  "total_titles_processed": 949,
   "failed_sources": [],
   "trends": [
     {
@@ -44,7 +44,7 @@
     },
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "澳洲联储：澳大利亚证券交易所清算与结算设施在多数单项标准评估中获评“符合”或“大体符合”，但在几个重要领域仍未达到澳洲联储的预期。",
@@ -53,9 +53,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "郑州商品交易所发布关于葵花籽油期货和期权合约及期货业务细则征求意见的公告。",
+          "url": "https://wallstreetcn.com/livenews/3169438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
         }
       ]
     }
