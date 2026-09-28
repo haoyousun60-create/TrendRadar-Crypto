@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-09-28T18:35:02.732411+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2026-09-29T02:27:40.431456+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高盛警告：美股多数股票已在熊市",
+          "url": "https://www.toutiao.com/trending/7690560556574445092/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
