@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T12:12:16.208031+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2026-10-01T19:23:05.657130+08:00",
+  "total_titles_processed": 875,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时29分 ~ 12时12分]"
+          "appearance_count": 5,
+          "time_info": "[07时29分 ~ 19时23分]"
         },
         {
           "title": "【每日收评】三大指数全天震荡涨跌不一，创新药概念全天强势，算力硬件等科技股方向再陷调整",
