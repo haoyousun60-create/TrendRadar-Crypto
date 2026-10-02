@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-10-02T07:01:35.494754+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-10-02T10:08:03.564018+08:00",
+  "total_titles_processed": 599,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：通胀不及预期缓解加息担忧 三大指数涨跌不一",
+          "url": "https://www.cls.cn/detail/2496732",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时07分 ~ 10时08分]"
+        },
+        {
+          "title": "美元或成黄金长期牛市的“掘墓人”，4000大关在四季度不是底线...",
+          "url": "https://flash.jin10.com/detail/20261002093117085800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        }
+      ]
+    },
     {
       "keyword_group": "# 交易所 交易所 交易平台",
       "match_count": 1,
@@ -17,23 +45,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：通胀不及预期缓解加息担忧 三大指数涨跌不一",
-          "url": "https://www.cls.cn/detail/2496732",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时07分 ~ 07时01分]"
         }
       ]
     }
