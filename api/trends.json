@@ -1,65 +1,7 @@
 {
-  "generated_at": "2026-10-02T17:23:15.384297+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2026-10-03T00:07:28.918324+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国CBOE考虑推出VIX永续期货，交易所正将永续合约拓展至加密以外资产类别",
-          "url": "https://wallstreetcn.com/livenews/3173458",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "嘉能可：澳大利亚证券交易所二次上市将于2026年10月14日开始交易。",
-          "url": "https://flash.jin10.com/detail/20261002163111850800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股收盘：通胀不及预期缓解加息担忧 三大指数涨跌不一",
-          "url": "https://www.cls.cn/detail/2496732",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时07分 ~ 17时23分]"
-        },
-        {
-          "title": "美元或成黄金长期牛市的“掘墓人”，4000大关在四季度不是底线...",
-          "url": "https://flash.jin10.com/detail/20261002093117085800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
