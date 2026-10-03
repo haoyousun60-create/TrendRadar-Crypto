@@ -1,26 +1,9 @@
 {
-  "generated_at": "2026-10-03T20:14:32.901078+08:00",
-  "total_titles_processed": 972,
-  "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国芝加哥商业交易所集团（CME Group）：暂停推出全天候10桶原油期货合约的计划。 若不开展进一步尽职调查就推出能源全天候交易，可能会带来额外风险，对此存在担忧。 希望美国商品期货交易委员会（CFTC）解决 “不公平现象”，重建公平竞争环境。",
-          "url": "https://wallstreetcn.com/livenews/3173812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 08时56分]"
-        }
-      ]
-    }
+  "generated_at": "2026-10-04T01:01:43.116185+08:00",
+  "total_titles_processed": 311,
+  "failed_sources": [
+    "cls-hot"
   ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
