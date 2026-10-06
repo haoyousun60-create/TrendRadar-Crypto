@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T12:55:36.366271+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2026-10-06T19:48:47.653996+08:00",
+  "total_titles_processed": 846,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 19时48分]"
         },
         {
           "title": "加密货币精英齐聚新加坡",
@@ -44,7 +44,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         }
