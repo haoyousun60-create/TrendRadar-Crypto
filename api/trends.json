@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-11T12:02:40.236839+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-10-11T19:13:12.872571+08:00",
+  "total_titles_processed": 829,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“只剩一笔交易”的美股牛市",
+          "url": "https://wallstreetcn.com/articles/3783355",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 19时13分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
