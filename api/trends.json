@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-13T08:09:53.893907+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-10-13T15:22:21.444943+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "财报季乐观预期与中东风险交织，美股指涨跌互现，存储芯片股重挫，油价走高，黄金下跌",
@@ -14,9 +14,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 15时22分]"
         },
         {
           "title": "财报季乐观预期与中东风险交织，美股指涨跌互现，存储芯片股普跌，油价走高，黄金小幅下跌",
@@ -45,11 +45,23 @@
           "url": "https://www.cls.cn/detail/2502814",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 15时22分]"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌互现。甲醇跌超6%，纯碱、20号胶跌超3%，红枣、合成橡胶、橡胶、乙二醇（EG）、氧化铝跌超2%。涨幅方面，低硫燃料油（LU）涨近6%，纯苯涨超4%，燃料油涨超3%，SC原油、苯乙烯（EB）涨近2%。",
+          "url": "https://flash.jin10.com/detail/20261013150052609800",
+          "source": "金十数据",
+          "ranks": [
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时09分"
+          "time_info": "15时22分"
         }
       ]
     }
