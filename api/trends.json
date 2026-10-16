@@ -1,72 +1,44 @@
 {
-  "generated_at": "2026-10-16T23:13:09.696580+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2026-10-17T03:19:09.375289+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "印尼证券交易所：明晟（MSCI）向我们询问了各项改革措施的实际成效。 明晟在上次会议中并未提及“独立市场（Standalone Market）”地位问题。",
-          "url": "https://wallstreetcn.com/livenews/3179896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "香港证监会欢迎香港交易所拟在香港股票市场实施T+1结算周期",
-          "url": "https://flash.jin10.com/detail/20261016175927217800",
+          "title": "上海黄金交易所黄金T+D 10月16日（周五）晚盘收盘下跌0.11%报896.1元/克；<br/>上海黄金交易所白银T+D 10月16日（周五）晚盘收盘下跌0.73%报13801.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20261017023052393800",
           "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "印尼证券交易所：将很快与明晟（MSCI）进行沟通，严肃回应其发出的警告。将提供我们改革的更强有力证据。 从基本面来看，印尼证交所的上市公司是良好的。 我们呼吁投资者在投资时保持理性，因为上市公司的基本面依然稳固。 MSCI所要求的执法落地需要时间，但相关部门将会对此妥善解决。 外资潜在的撤出超出了我们的控制范围，我们所能做的就是落实我们的各项改革。",
-          "url": "https://wallstreetcn.com/livenews/3179892",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "03时19分"
         },
         {
-          "title": "韩国交易所启动SIDECAR机制，暂停KOSDAQ程序化买盘。",
-          "url": "https://wallstreetcn.com/livenews/3179877",
+          "title": "洲际交易所（ICE）：10月13日当周，投机者所持ICE布伦特原油净多头头寸增加31,977手合约，至233,029手合约，创四周新高。 所持白糖净多头头寸增加至60,755手合约，创四周新高。 所持伦敦可可净空头头寸降低至4,088手合约，创四周新低。",
+          "url": "https://wallstreetcn.com/livenews/3180423",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 1,
-      "titles": [
+          "time_info": "03时19分"
+        },
         {
-          "title": "明晟公司MSCI新兴市场股票指数下跌3.1%，创7月份以来新低，韩国Kospi指数跌7.6%——今年第二次陷入熊市。 发展中国家外汇指数跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3179710",
-          "source": "华尔街见闻-快讯",
+          "title": "洲际交易所：截至10月13日当周，布伦特原油投机者净多头头寸增加31,977手，至233,029手。",
+          "url": "https://flash.jin10.com/detail/20261017020330880800",
+          "source": "金十数据",
           "ranks": [
-            12
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时56分"
+          "time_info": "03时19分"
         }
       ]
     }
