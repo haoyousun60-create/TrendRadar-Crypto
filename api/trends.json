@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-18T04:08:44.145879+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2026-10-18T06:54:08.433170+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "林园：现在是乌龟爬着，等牛市哪天爆发，看好AI大时代但不碰个股",
+          "url": "https://wallstreetcn.com/articles/3783834",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 06时54分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
