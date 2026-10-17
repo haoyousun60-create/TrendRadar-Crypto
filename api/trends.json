@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-10-17T22:59:05.828171+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-10-18T01:49:42.755594+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 10月16日（周五）晚盘收盘下跌0.11%报896.1元/克；<br/>上海黄金交易所白银T+D 10月16日（周五）晚盘收盘下跌0.73%报13801.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20261017023052393800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
-          "title": "洲际交易所（ICE）：10月13日当周，投机者所持ICE布伦特原油净多头头寸增加31,977手合约，至233,029手合约，创四周新高。 所持白糖净多头头寸增加至60,755手合约，创四周新高。 所持伦敦可可净空头头寸降低至4,088手合约，创四周新低。",
-          "url": "https://wallstreetcn.com/livenews/3180423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
-          "title": "洲际交易所：截至10月13日当周，布伦特原油投机者净多头头寸增加31,977手，至233,029手。",
-          "url": "https://flash.jin10.com/detail/20261017020330880800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
