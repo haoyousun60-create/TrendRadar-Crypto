@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-19T13:44:33.556310+08:00",
-  "total_titles_processed": 797,
+  "generated_at": "2026-10-19T20:09:35.023831+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 10月19日（周一）晚盘盘初上涨0.34%报900.1元/克；<br/>上海黄金交易所白银T+D 10月19日（周一）晚盘盘初上涨0.43%报13963.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20261019200015796800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
         {
           "title": "印尼证券交易所负责人：全球投资者告诉我们，印尼符合保留新兴市场地位的所有标准。",
           "url": "https://flash.jin10.com/detail/20261019131252453800",
@@ -14,7 +25,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -25,7 +36,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -36,9 +47,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "阿曼马斯喀特证券交易所指数今日收于7634.86点，较下跌21.3点，成交额超过4900万阿曼里亚尔。",
+          "url": "https://flash.jin10.com/detail/20261019194746168800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "印尼证券交易所负责人：MSCI公告出乎我方意料，引发市场恐慌。",
@@ -47,7 +69,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -58,7 +80,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         }
