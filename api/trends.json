@@ -1,7 +1,69 @@
 {
-  "generated_at": "2026-10-19T08:49:28.180676+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-10-19T13:44:33.556310+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "印尼证券交易所负责人：全球投资者告诉我们，印尼符合保留新兴市场地位的所有标准。",
+          "url": "https://flash.jin10.com/detail/20261019131252453800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "印尼证券交易所负责人：调整自动拒单限制的措施已生效，以防止恐慌性交易。",
+          "url": "https://flash.jin10.com/detail/20261019131053946800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "印尼证券交易所负责人：将于周一15:30（北京时间16:30）与MSCI会面。",
+          "url": "https://flash.jin10.com/detail/20261019130928102800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "印尼证券交易所负责人：MSCI公告出乎我方意料，引发市场恐慌。",
+          "url": "https://flash.jin10.com/detail/20261019130837149800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "据日本电力交易所数据，周一日本全国电力现货价格较前一周上涨逾四分之一，达到每千瓦时31.15日元（0.19美元）。",
+          "url": "https://flash.jin10.com/detail/20261019125316949800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
