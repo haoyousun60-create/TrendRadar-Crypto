@@ -1,88 +1,22 @@
 {
-  "generated_at": "2026-10-19T20:09:35.023831+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-10-20T03:01:38.869245+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
         {
-          "title": "上海黄金交易所黄金T+D 10月19日（周一）晚盘盘初上涨0.34%报900.1元/克；<br/>上海黄金交易所白银T+D 10月19日（周一）晚盘盘初上涨0.43%报13963.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20261019200015796800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "印尼证券交易所负责人：全球投资者告诉我们，印尼符合保留新兴市场地位的所有标准。",
-          "url": "https://flash.jin10.com/detail/20261019131252453800",
+          "title": "上海黄金交易所黄金T+D 10月19日（周一）晚盘收盘下跌0.67%报892.9元/克；<br/>上海黄金交易所白银T+D 10月19日（周一）晚盘收盘下跌0.42%报13872.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20261020023017881800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "印尼证券交易所负责人：调整自动拒单限制的措施已生效，以防止恐慌性交易。",
-          "url": "https://flash.jin10.com/detail/20261019131053946800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "印尼证券交易所负责人：将于周一15:30（北京时间16:30）与MSCI会面。",
-          "url": "https://flash.jin10.com/detail/20261019130928102800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "阿曼马斯喀特证券交易所指数今日收于7634.86点，较下跌21.3点，成交额超过4900万阿曼里亚尔。",
-          "url": "https://flash.jin10.com/detail/20261019194746168800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "印尼证券交易所负责人：MSCI公告出乎我方意料，引发市场恐慌。",
-          "url": "https://flash.jin10.com/detail/20261019130837149800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "据日本电力交易所数据，周一日本全国电力现货价格较前一周上涨逾四分之一，达到每千瓦时31.15日元（0.19美元）。",
-          "url": "https://flash.jin10.com/detail/20261019125316949800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
+          "time_info": "03时01分"
         }
       ]
     }
