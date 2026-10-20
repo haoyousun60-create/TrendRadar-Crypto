@@ -1,64 +1,7 @@
 {
-  "generated_at": "2026-10-20T21:21:12.417846+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-10-21T02:21:30.475481+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 10月19日（周一）晚盘收盘下跌0.67%报892.9元/克；<br/>上海黄金交易所白银T+D 10月19日（周一）晚盘收盘下跌0.42%报13872.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20261020023017881800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 10月20日（周二）早盘盘初下跌0.94%报890.5元/克；<br/>上海黄金交易所白银T+D 10月20日（周二）早盘盘初下跌1.27%报13753.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20261020090130786800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股牛市4岁了",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%89%9B%E5%B8%824%E5%B2%81%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
-        },
-        {
-          "title": "纽约股市三大股指19日涨跌不一",
-          "url": "https://www.toutiao.com/trending/7698055783375847474/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
