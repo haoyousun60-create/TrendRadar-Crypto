@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T14:58:50.861188+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2026-10-23T20:37:51.636987+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
@@ -28,6 +28,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 交易所 交易所 交易平台",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 10月23日（周五）晚盘盘初下跌2.07%报863.35元/克；<br/>上海黄金交易所白银T+D 10月23日（周五）晚盘盘初下跌4.75%报13024.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20261023200130614800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         }
       ]
     }
