@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T07:50:11.839555+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-10-24T11:19:11.446837+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "油价走高压制美债表现，美股低开，半导体股涨跌互现，布油涨3%",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时42分 ~ 05时47分]"
+        },
+        {
+          "title": "评论员：牛市中的A股到底发生了什么",
+          "url": "https://www.toutiao.com/trending/7700040994682572324/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         }
       ]
     }
