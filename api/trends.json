@@ -1,39 +1,22 @@
 {
-  "generated_at": "2026-10-28T18:31:11.889410+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2026-10-29T01:02:02.498465+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 10月27日（周二）晚盘收盘上涨1.11%报870.94元/克；<br/>上海黄金交易所白银T+D 10月27日（周二）晚盘收盘上涨1.33%报13082.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20261028023203242800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        }
-      ]
-    },
     {
       "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
       "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2026年10月28日（周三）富时中国A50指数成分股午盘收盘行情一览：成分股涨跌互现，化学制药、消费电子板块涨幅居前",
-          "url": "https://flash.jin10.com/detail/20261028113617290800",
-          "source": "金十数据",
+          "title": "美股最可靠的警报灯亮了！历史两次闪烁后，都迎来大熊市",
+          "url": "https://wallstreetcn.com/articles/3784679",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时01分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         }
       ]
     }
