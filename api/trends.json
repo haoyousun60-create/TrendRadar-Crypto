@@ -1,52 +1,39 @@
 {
-  "generated_at": "2026-10-29T23:52:16.985815+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2026-10-30T04:53:44.983293+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 2,
+      "keyword_group": "# 加密货币 加密货币 比特币 以太坊 Binance 币安 OKX 火币 虚拟货币 数字货币 blockchain crypto",
+      "match_count": 1,
       "titles": [
         {
-          "title": "上海黄金交易所黄金T+D 10月29日（周四）收盘下跌0.31%报864.8元/克；<br/>上海黄金交易所白银T+D 10月29日（周四）收盘下跌3.15%报12636.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20261029153312737800",
-          "source": "金十数据",
+          "title": "加密货币交易所Coinbase三季度总收入12.2亿美元，分析师预期12.2亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3190753",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 10月29日（周四）早盘盘初下跌0.17%报865.98元/克；<br/>上海黄金交易所白银T+D 10月29日（周四）早盘盘初下跌1.89%报12800.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20261029090021011800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时33分"
+          "time_info": "04时53分"
         }
       ]
     },
     {
-      "keyword_group": "# 行情 涨跌 牛市 熊市 山寨币 DeFi NFT Web3",
+      "keyword_group": "# 交易所 交易所 交易平台",
       "match_count": 1,
       "titles": [
         {
-          "title": "美股最可靠的警报灯亮了！历史两次闪烁后，都迎来大熊市",
-          "url": "https://wallstreetcn.com/articles/3784679",
-          "source": "华尔街见闻",
+          "title": "衡量中国进口商在伦敦金属交易所（LME）价格之上额外支付金额的洋山铜溢价周三飙升至每吨200美元以上，并维持在该水平附近，创Fastmarkets自2017年有数据以来的最高纪录。 该溢价在过去几个月大幅飙升。",
+          "url": "https://wallstreetcn.com/livenews/3190731",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            6,
-            5
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 16时02分]"
+          "appearance_count": 1,
+          "time_info": "04时53分"
         }
       ]
     }
