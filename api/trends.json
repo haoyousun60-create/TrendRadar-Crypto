@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-29T09:33:41.162176+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-10-29T16:02:19.819580+08:00",
+  "total_titles_processed": 840,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 交易所 交易所 交易平台",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 10月29日（周四）收盘下跌0.31%报864.8元/克；<br/>上海黄金交易所白银T+D 10月29日（周四）收盘下跌3.15%报12636.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20261029153312737800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
         {
           "title": "上海黄金交易所黄金T+D 10月29日（周四）早盘盘初下跌0.17%报865.98元/克；<br/>上海黄金交易所白银T+D 10月29日（周四）早盘盘初下跌1.89%报12800.0元/千克。",
           "url": "https://flash.jin10.com/detail/20261029090021011800",
@@ -14,7 +25,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         }
@@ -30,11 +41,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 09时33分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 16时02分]"
         }
       ]
     }
