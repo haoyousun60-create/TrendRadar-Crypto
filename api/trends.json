@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T14:49:12.214951+08:00",
-  "total_titles_processed": 693,
+  "generated_at": "2026-10-30T21:51:52.138789+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3784815",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时48分 ~ 14时49分]"
+          "appearance_count": 3,
+          "time_info": "[14时48分 ~ 21时51分]"
+        },
+        {
+          "title": "如何看待币安遭黑客攻击，数十亿美元资产被盗，或成历史金额最大被盗事件？",
+          "url": "https://www.zhihu.com/question/2099446310872900107",
+          "source": "知乎",
+          "ranks": [
+            17,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时48分 ~ 21时51分]"
         },
         {
           "title": "币安：所有存储和提取功能暂时停止。 正在调查安全问题报告。",
@@ -35,17 +48,6 @@
           "source": "财联社热门",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时48分 ~ 14时49分]"
-        },
-        {
-          "title": "如何看待币安遭黑客攻击，数十亿美元资产被盗，或成历史金额最大被盗事件？",
-          "url": "https://www.zhihu.com/question/2099446310872900107",
-          "source": "知乎",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
